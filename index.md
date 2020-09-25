@@ -15,7 +15,7 @@
 </table>
 
 
-[ <a href="#News">News</a> / <a href="#Research">Research Interests</a> / <a href="#Education">Education</a> / <a href="#Publications">Publications</a> / <a href="#Codes">Codes</a> / <a href="#Professional">Professional Service</a> / <a href="#Journal">Journal Reviewer</a> / <a href="#Awards">Awards & Honors</a> ]
+[ <a href="#News">News</a> / <a href="#Research">Research Interests</a> / <a href="#Education">Education</a> / <a href="#Publications">Publications</a> / <a href="#Codes">Codes</a> / <a href="#Professional">Professional Service</a> / <a href="#Awards">Awards & Honors</a> ]
 
 <a name="News"></a>
 ### News
@@ -163,7 +163,6 @@ Fit-FC (<a href="https://github.com/wqm11111/Fit-FC">Code</a>)
 
 - 2017–2020			  	Associate Editor, Computers & Geosciences
 
-<a name="Journal"></a>
 #### Journal Reviewer
 - Advances in Space Research
 
