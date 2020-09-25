@@ -146,8 +146,10 @@
 
 - <b>Sub-pixel mapping</b> <br/>
 RBF
+
 - <b>Spatio-spectral fusion</b> <br/>
 ATPRK
+
 - <b>Spatio-temporal fusion</b> <br/>
 Fit-FC (<a href="https://github.com/wqm11111/Fit-FC">Code</a>) 
 
