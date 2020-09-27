@@ -146,10 +146,10 @@
 ### Codes
 
 - <b>Sub-pixel mapping</b> <br/>
-RBF
+RBF-based sub-pixel mapping (<a href="https://github.com/qunmingwang/RBF-based-sub-pixel-mapping-codes">Code</a>) 
 
 - <b>Spatio-spectral fusion</b> <br/>
-ATPRK
+ATPRK (<a href="https://github.com/qunmingwang/Code-for-S2-fusion">Code</a>) 
 
 - <b>Spatio-temporal fusion</b> <br/>
 Fit-FC (<a href="https://github.com/wqm11111/Fit-FC">Code</a>) 
