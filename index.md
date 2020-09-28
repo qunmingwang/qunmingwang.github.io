@@ -43,7 +43,6 @@
 - Google Scholar: <a href="https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en">https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en</a>
 - Research Gate: <a href="https://www.researchgate.net/profile/Qunming_Wang">https://www.researchgate.net/profile/Qunming_Wang</a>
 
-
 <h4><font color="black">2020</font></h4>
 
 [7]    <b>Q. Wang*</b>, C. Zhang, Xiaohua Tong*, P. M. Atkinson. General solution to reduce the point spread function effect in subpixel mapping. Remote Sensing of Environment, 2020, 251: 112054.
