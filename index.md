@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="/wqm.png" width="100%">
+      <img src="/wqm1.png" width="100%">
     </td>
     <td width="75%">
       <h1><font color="#005AB5">Qunming Wang (王群明)</font></h1>
