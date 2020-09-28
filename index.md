@@ -31,7 +31,7 @@
 - Machine learning
 
 <a name="Education"></a>
-<h3><font color="#black">Education</font></h3>
+<h3><font color="black">Education</font></h3>
 
 - 08/2012 – 09/2015		<b>Ph.D.</b> in Photogrammetry and Remote Sensing, The Hong Kong Polytechnic University, HK
 - 09/2010 – 06/2012		<b>M.S.</b> in Signal and Information Processing, Harbin Engineering University, China
