@@ -5,12 +5,11 @@
     </td>
     <td width="80%" align="center" valign="middle">
       <h1><font color="#005AB5">Qunming Wang (王群明)</font></h1>
-      <pstyle="line-height:200;"><b>Professor</b><br/>
+      <b>Professor</b><br/>
       <b>College of surveying and Geo-Informatics</b><br/>
       <b>Tongji University</b><br/>
       <b>1239 Siping Road, Shanghai 200092, China</b><br/>
       <b>Email：wqm11111@126.com; wangqm@tongji.edu.cn</b><br/>
-      </p>
     </td>
   </tr>
 </table>
