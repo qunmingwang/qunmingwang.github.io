@@ -46,6 +46,8 @@
 
 <h4><font color="black">2020</font></h4>
 
+[7]    <b>Q. Wang*</b>, C. Zhang, Xiaohua Tong*, P. M. Atkinson. General solution to reduce the point spread function effect in subpixel mapping. Remote Sensing of Environment, 2020, 251: 112054.
+
 [6]    <b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Virtual image pair-based spatio-temporal fusion. Remote Sensing of Environment, 2020, 249: 112009.
 
 [5]    <b>Q. Wang</b>, C. Zhang, P. M. Atkinson. Sub-pixel mapping with point constraints. Remote Sensing of Environment, 2020, 244: 111817.
