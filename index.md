@@ -24,7 +24,8 @@
 - 06/2020					I am appointed Associate Editor for Science of Remote Sensing (sister journal of <b>RSE</b>) <a href="https://www.journals.elsevier.com/science-of-remote-sensing">https://www.journals.elsevier.com/science-of-remote-sensing</a> 
 
 <a name="Research"></a>
-### Research Interests
+<h3><font color="black"><b>Research Interests</b></font></h3>
+
 - Remote sensing image processing, including image fusion, downscaling, data reconstruction, land-cover/land-use mapping and change detection, and mixed pixel analysis
 
 - Geostatistics and spatial statistics
@@ -32,7 +33,8 @@
 - Machine learning
 
 <a name="Education"></a>
-### Education 
+<h3><font color="black"><b>Education</b></font></h3>
+
 - 08/2012 – 09/2015		<b>Ph.D.</b> in Photogrammetry and Remote Sensing, The Hong Kong Polytechnic University, HK
 
 - 09/2010 – 06/2012		<b>M.S.</b> in Signal and Information Processing, Harbin Engineering University, China
@@ -40,13 +42,14 @@
 - 09/2006 – 06/2010		<b>B.S.</b> in Electronics and Information Engineering, Harbin Engineering University, China
 
 <a name="Publications"></a>
-### Publications
+<h3><font color="black"><b>Publications</b></font></h3>
+
 - Google Scholar: <a href="https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en">https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en</a>
 
 - Research Gate: <a href="https://www.researchgate.net/profile/Qunming_Wang">https://www.researchgate.net/profile/Qunming_Wang</a>
 
 
-#### 2020
+<h4><font color="black"><b>2020</b></font></h4>
 
 [6]    <b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Virtual image pair-based spatio-temporal fusion. Remote Sensing of Environment, 2020, 249: 112009.
 
@@ -60,8 +63,7 @@
 
 [1]    <b>Q. Wang</b>, W. Shi, P. M. Atkinson. Information loss-guided multi-resolution image fusion. IEEE Transactions on Geoscience and Remote Sensing, 2020, 58(1): 45–57.
 
-
-#### 2019 and earlier (Selected)
+<h4><font color="black"><b>2019 and earlier (Selected)</b></font></h4>
 
 [1]    P. Ghamisi, B. Rasti, N. Yokoya, <b>Q. Wang</b>, B. Hofle, L. Bruzzone, F. Bovolo, M. Chi, K. Anders, R. Gloaguen, P. M. Atkinson, J. A. Benediktsson. Multisource and multitemporal data fusion in remote sensing. IEEE Geoscience and Remote Sensing Magazine, 2019, 7(1): 6–39.
 
@@ -144,7 +146,7 @@
 [40] <b>Q. Wang</b>, L. Wang, D. Liu. Particle swarm optimization-based sub-pixel mapping for remote-sensing imagery. International Journal of Remote Sensing, 2012, 33(20): 6480–6496.
 
 <a name="Codes"></a>
-### Codes
+<h3><font color="black"><b>Codes</b></font></h3>
 
 - <b>Sub-pixel mapping</b> <br/>
 RBF-based sub-pixel mapping (<a href="https://github.com/qunmingwang/RBF-based-sub-pixel-mapping-codes">Code</a>) 
@@ -156,15 +158,17 @@ ATPRK (<a href="https://github.com/qunmingwang/Code-for-S2-fusion">Code</a>)
 Fit-FC (<a href="https://github.com/wqm11111/Fit-FC">Code</a>) 
 
 <a name="Professional"></a>
-### Professional Service
-#### Editorship
+<h3><font color="black"><b>Professional Service</b></font></h3>
+<h4><font color="black"><b>Editorship</b></font></h4>
+
 - 2020–Present			Associate Editor, Science of Remote Sensing (sister journal of <b>RSE</b>)
 
 - 2017–Present			Associate Editor, Photogrammetric Engineering & Remote Sensing
 
 - 2017–2020			  	Associate Editor, Computers & Geosciences
 
-#### Journal Reviewer
+<h4><font color="black"><b>Journal Reviewer</b></font></h4>
+
 - Advances in Space Research
 
 - Atmospheric Environment
@@ -232,7 +236,8 @@ Fit-FC (<a href="https://github.com/wqm11111/Fit-FC">Code</a>)
 - Sustainable Cities and Society
 
 <a name="Awards"></a>
-### Awards & Honors
+<h3><font color="black"><b>Awards & Honors</b></font></h3>
+
 - 2017					           	Grand Prize of the Science and Technology Progress Award in Surveying and Mapping (Ranking No. 4)
 
 - 2016			          			Outstanding PhD thesis in Faculty of Construction and Environment, Hong Kong PolyU
