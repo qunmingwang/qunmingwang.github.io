@@ -18,13 +18,13 @@
 [ <a href="#News">News</a> / <a href="#Research">Research Interests</a> / <a href="#Education">Education</a> / <a href="#Publications">Publications</a> / <a href="#Codes">Codes</a> / <a href="#Professional">Professional Service</a> / <a href="#Awards">Awards & Honors</a> ]
 
 <a name="News"></a>
-<h3><font color="#black">News</font></h3>
-  
+<h3><font color="black">News</font></h3>
+
 - 08/2020					A paper on spatio-temporal fusion is published in <b>RSE</b> <a href="https://www.sciencedirect.com/science/article/pii/S0034425720303795">https://www.sciencedirect.com/science/article/pii/S0034425720303795</a> 
 - 06/2020					I am appointed Associate Editor for Science of Remote Sensing (sister journal of <b>RSE</b>) <a href="https://www.journals.elsevier.com/science-of-remote-sensing">https://www.journals.elsevier.com/science-of-remote-sensing</a> 
 
 <a name="Research"></a>
-<h3><font color="#black">Research Interests</font></h3>
+<h3><font color="black">Research Interests</font></h3>
 
 - Remote sensing image processing, including image fusion, downscaling, data reconstruction, land-cover/land-use mapping and change detection, and mixed pixel analysis
 - Geostatistics and spatial statistics
@@ -38,13 +38,13 @@
 - 09/2006 – 06/2010		<b>B.S.</b> in Electronics and Information Engineering, Harbin Engineering University, China
 
 <a name="Publications"></a>
-<h3><font color="#black">Publications</font></h3>
+<h3><font color="black">Publications</font></h3>
 
 - Google Scholar: <a href="https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en">https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en</a>
 - Research Gate: <a href="https://www.researchgate.net/profile/Qunming_Wang">https://www.researchgate.net/profile/Qunming_Wang</a>
 
 
-<h4><font color="#black">2020</font></h4>
+<h4><font color="black">2020</font></h4>
 
 [6]    <b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Virtual image pair-based spatio-temporal fusion. Remote Sensing of Environment, 2020, 249: 112009.
 
@@ -58,7 +58,7 @@
 
 [1]    <b>Q. Wang</b>, W. Shi, P. M. Atkinson. Information loss-guided multi-resolution image fusion. IEEE Transactions on Geoscience and Remote Sensing, 2020, 58(1): 45–57.
 
-<h4><font color="#black">2019 and earlier (Selected)</font></h4>
+<h4><font color="black">2019 and earlier (Selected)</font></h4>
 
 [1]    P. Ghamisi, B. Rasti, N. Yokoya, <b>Q. Wang</b>, B. Hofle, L. Bruzzone, F. Bovolo, M. Chi, K. Anders, R. Gloaguen, P. M. Atkinson, J. A. Benediktsson. Multisource and multitemporal data fusion in remote sensing. IEEE Geoscience and Remote Sensing Magazine, 2019, 7(1): 6–39.
 
@@ -141,7 +141,7 @@
 [40] <b>Q. Wang</b>, L. Wang, D. Liu. Particle swarm optimization-based sub-pixel mapping for remote-sensing imagery. International Journal of Remote Sensing, 2012, 33(20): 6480–6496.
 
 <a name="Codes"></a>
-<h3><font color="#black">Codes</font></h3>
+<h3><font color="black">Codes</font></h3>
 
 - <b>Sub-pixel mapping</b> <br/>
 RBF-based sub-pixel mapping (<a href="https://github.com/qunmingwang/RBF-based-sub-pixel-mapping-codes">Code</a>) 
@@ -153,14 +153,14 @@ ATPRK (<a href="https://github.com/qunmingwang/Code-for-S2-fusion">Code</a>)
 Fit-FC (<a href="https://github.com/wqm11111/Fit-FC">Code</a>) 
 
 <a name="Professional"></a>
-<h3><font color="#black">Professional Service</font></h3>
-<h4><font color="#black">Editorship</font></h4>
+<h3><font color="black">Professional Service</font></h3>
+<h4><font color="black">Editorship</font></h4>
 
 - 2020–Present			Associate Editor, Science of Remote Sensing (sister journal of <b>RSE</b>)
 - 2017–Present			Associate Editor, Photogrammetric Engineering & Remote Sensing
 - 2017–2020			  	Associate Editor, Computers & Geosciences
 
-<h4><font color="#black">Journal Reviewer</font></h4>
+<h4><font color="black">Journal Reviewer</font></h4>
 
 - Advances in Space Research
 - Atmospheric Environment
@@ -197,7 +197,7 @@ Fit-FC (<a href="https://github.com/wqm11111/Fit-FC">Code</a>)
 - Sustainable Cities and Society
 
 <a name="Awards"></a>
-<h3><font color="#black">Awards & Honors</font></h3>
+<h3><font color="black">Awards & Honors</font></h3>
 
 - 2017					           	Grand Prize of the Science and Technology Progress Award in Surveying and Mapping (Ranking No. 4)
 - 2016			          			Outstanding PhD thesis in Faculty of Construction and Environment, Hong Kong PolyU
