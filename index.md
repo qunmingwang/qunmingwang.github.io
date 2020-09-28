@@ -18,20 +18,21 @@
 [ <a href="#News">News</a> / <a href="#Research">Research Interests</a> / <a href="#Education">Education</a> / <a href="#Publications">Publications</a> / <a href="#Codes">Codes</a> / <a href="#Professional">Professional Service</a> / <a href="#Awards">Awards & Honors</a> ]
 
 <a name="News"></a>
-<h3><font color="#191970">News</font></h3>
-
+<h3><font color="#black">News</font></h3>
+<HR style="FILTER: alpha(opacity=100,finishopacity=0,style=1)" width="100%" color=#987cb9 SIZE=3>
+  
 - 08/2020					A paper on spatio-temporal fusion is published in <b>RSE</b> <a href="https://www.sciencedirect.com/science/article/pii/S0034425720303795">https://www.sciencedirect.com/science/article/pii/S0034425720303795</a> 
 - 06/2020					I am appointed Associate Editor for Science of Remote Sensing (sister journal of <b>RSE</b>) <a href="https://www.journals.elsevier.com/science-of-remote-sensing">https://www.journals.elsevier.com/science-of-remote-sensing</a> 
 
 <a name="Research"></a>
-<h3><font color="#191970">Research Interests</font></h3>
+<h3><font color="#black">Research Interests</font></h3>
 
 - Remote sensing image processing, including image fusion, downscaling, data reconstruction, land-cover/land-use mapping and change detection, and mixed pixel analysis
 - Geostatistics and spatial statistics
 - Machine learning
 
 <a name="Education"></a>
-<h3><font color="#191970"><b>Education</b></font></h3>
+<h3><font color="#black"><b>Education</b></font></h3>
 
 - 08/2012 – 09/2015		<b>Ph.D.</b> in Photogrammetry and Remote Sensing, The Hong Kong Polytechnic University, HK
 - 09/2010 – 06/2012		<b>M.S.</b> in Signal and Information Processing, Harbin Engineering University, China
