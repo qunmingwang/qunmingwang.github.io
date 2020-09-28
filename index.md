@@ -1,15 +1,16 @@
 <table border="0">
   <tr>
-    <td width="25%">
+    <td width="20%">
       <img src="/wqm1.png" width="100%">
     </td>
-    <td width="75%" td cellspacing="10">
+    <td width="80%" align="center" valign="middle">
       <h1><font color="#005AB5">Qunming Wang (王群明)</font></h1>
-      <p><b>Professor</b></p>
-      <p><b>College of surveying and Geo-Informatics</b></p>
-      <p><b>Tongji University</b></p>
-      <p><b>1239 Siping Road, Shanghai 200092, China</b></p>
-      <p><b>Email：wqm11111@126.com; wangqm@tongji.edu.cn</b></p>
+      <pstyle="line-height:200;"><b>Professor</b><br/>
+      <b>College of surveying and Geo-Informatics</b><br/>
+      <b>Tongji University</b><br/>
+      <b>1239 Siping Road, Shanghai 200092, China</b><br/>
+      <b>Email：wqm11111@126.com; wangqm@tongji.edu.cn</b><br/>
+      </p>
     </td>
   </tr>
 </table>
