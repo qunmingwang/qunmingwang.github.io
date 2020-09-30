@@ -20,8 +20,8 @@
 <a name="News"></a>
 <h3><font color="black">News</font></h3>
 
-- 08/2020					A paper on spatio-temporal fusion is published in <b>RSE</b> <a href="https://www.sciencedirect.com/science/article/pii/S0034425720303795">https://www.sciencedirect.com/science/article/pii/S0034425720303795</a> 
-- 06/2020					I am appointed Associate Editor for Science of Remote Sensing (sister journal of <b>RSE</b>) <a href="https://www.journals.elsevier.com/science-of-remote-sensing">https://www.journals.elsevier.com/science-of-remote-sensing</a> 
+- 08/2020		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on spatio-temporal fusion is published in <b>RSE</b> <a href="https://www.sciencedirect.com/science/article/pii/S0034425720303795">https://www.sciencedirect.com/science/article/pii/S0034425720303795</a> 
+- 06/2020		 &nbsp;&nbsp;&nbsp;&nbsp; 			I am appointed Associate Editor for Science of Remote Sensing (sister journal of <b>RSE</b>) <a href="https://www.journals.elsevier.com/science-of-remote-sensing">https://www.journals.elsevier.com/science-of-remote-sensing</a> 
 
 <a name="Research"></a>
 <h3><font color="black">Research Interests</font></h3>
@@ -34,8 +34,8 @@
 <h3><font color="black">Education</font></h3>
 
 - 08/2012 – 09/2015 &nbsp;&nbsp;&nbsp;&nbsp; <b>Ph.D.</b> in Photogrammetry and Remote Sensing, The Hong Kong Polytechnic University, HK
-- 09/2010 – 06/2012		<b>M.S.</b> in Signal and Information Processing, Harbin Engineering University, China
-- 09/2006 – 06/2010		<b>B.S.</b> in Electronics and Information Engineering, Harbin Engineering University, China
+- 09/2010 – 06/2012	&nbsp;&nbsp;&nbsp;&nbsp; <b>M.S.</b> in Signal and Information Processing, Harbin Engineering University, China
+- 09/2006 – 06/2010	&nbsp;&nbsp;&nbsp;&nbsp; <b>B.S.</b> in Electronics and Information Engineering, Harbin Engineering University, China
 
 <a name="Publications"></a>
 <h3><font color="black">Publications</font></h3>
@@ -51,7 +51,7 @@
 
 [6]    <b>Q. Wang</b>, C. Zhang, P. M. Atkinson. Sub-pixel mapping with point constraints. Remote Sensing of Environment, 2020, 244: 111817.
 
-[5]    <b>Q. Wang</b>, C. Zhang, P. M. Atkinson. Sub-pixel mapping with point constraints. Remote Sensing of Environment, 2020, 244: 111817.
+[5]    <b>Q. Wang</b>, Y. Tang, P. M. Atkinson. The effect of the point spread function on downscaling continua. ISPRS Journal of Photogrammetry and Remote Sensing, 2020, 168: 251-267.
 
 [4]    L. Wang, X. Wang, <b>Q. Wang*</b>. Using 250-m MODIS data for enhancing spatiotemporal fusion by sparse representation. Photogrammetric Engineering and Remote Sensing, 2020, 86(6): 383–392.
 
@@ -159,9 +159,9 @@ Fit-FC (<a href="https://github.com/wqm11111/Fit-FC">Code</a>)
 <h3><font color="black">Professional Service</font></h3>
 <h4><font color="black">Editorship</font></h4>
 
-- 2020–Present			Associate Editor, Science of Remote Sensing (sister journal of <b>RSE</b>)
-- 2017–Present			Associate Editor, Photogrammetric Engineering & Remote Sensing
-- 2017–2020			  	Associate Editor, Computers & Geosciences
+- 2020–Present	 &nbsp;&nbsp;&nbsp;&nbsp; 		Associate Editor, Science of Remote Sensing (sister journal of <b>RSE</b>)
+- 2017–Present	 &nbsp;&nbsp;&nbsp;&nbsp; 		Associate Editor, Photogrammetric Engineering & Remote Sensing
+- 2017–2020			 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	Associate Editor, Computers & Geosciences
 
 <h4><font color="black">Journal Reviewer</font></h4>
 
@@ -202,8 +202,8 @@ Fit-FC (<a href="https://github.com/wqm11111/Fit-FC">Code</a>)
 <a name="Awards"></a>
 <h3><font color="black">Awards & Honors</font></h3>
 
-- 2017					           	Grand Prize of the Science and Technology Progress Award in Surveying and Mapping (Ranking No. 4)
-- 2016			          			Outstanding PhD thesis in Faculty of Construction and Environment, Hong Kong PolyU
-- 2012 – 2015			        	Hong Kong PhD Fellowship
-- 2012                  		Excellent Graduate in Harbin Engineering University, China
-- 2012                 			Excellent Graduate in Heilongjiang Province, China
+- 2017	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grand Prize of the Science and Technology Progress Award in Surveying and Mapping (Ranking No. 4)
+- 2016		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outstanding PhD thesis in Faculty of Construction and Environment, Hong Kong PolyU
+- 2012 – 2015	 &nbsp;&thinsp; 	Hong Kong PhD Fellowship
+- 2012      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   		Excellent Graduate in Harbin Engineering University, China
+- 2012      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 		Excellent Graduate in Heilongjiang Province, China
