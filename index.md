@@ -33,7 +33,7 @@
 <a name="Education"></a>
 <h3><font color="black">Education</font></h3>
 
-- 08/2012 – 09/2015		<b>Ph.D.</b> in Photogrammetry and Remote Sensing, The Hong Kong Polytechnic University, HK
+- 08/2012 – 09/2015 &nbsp;&nbsp;&nbsp;&nbsp; <b>Ph.D.</b> in Photogrammetry and Remote Sensing, The Hong Kong Polytechnic University, HK
 - 09/2010 – 06/2012		<b>M.S.</b> in Signal and Information Processing, Harbin Engineering University, China
 - 09/2006 – 06/2010		<b>B.S.</b> in Electronics and Information Engineering, Harbin Engineering University, China
 
@@ -45,9 +45,11 @@
 
 <h4><font color="black">2020</font></h4>
 
-[7]    <b>Q. Wang</b>, C. Zhang, X. Tong, P. M. Atkinson. General solution to reduce the point spread function effect in subpixel mapping. Remote Sensing of Environment, 2020, 251: 112054.
+[8]    <b>Q. Wang</b>, C. Zhang, X. Tong, P. M. Atkinson. General solution to reduce the point spread function effect in subpixel mapping. Remote Sensing of Environment, 2020, 251: 112054.
 
-[6]    <b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Virtual image pair-based spatio-temporal fusion. Remote Sensing of Environment, 2020, 249: 112009.
+[7]    <b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Virtual image pair-based spatio-temporal fusion. Remote Sensing of Environment, 2020, 249: 112009.
+
+[6]    <b>Q. Wang</b>, C. Zhang, P. M. Atkinson. Sub-pixel mapping with point constraints. Remote Sensing of Environment, 2020, 244: 111817.
 
 [5]    <b>Q. Wang</b>, C. Zhang, P. M. Atkinson. Sub-pixel mapping with point constraints. Remote Sensing of Environment, 2020, 244: 111817.
 
