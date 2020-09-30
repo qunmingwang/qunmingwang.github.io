@@ -159,9 +159,9 @@ Fit-FC (<a href="https://github.com/wqm11111/Fit-FC">Code</a>)
 <h3><font color="black">Professional Service</font></h3>
 <h4><font color="black">Editorship</font></h4>
 
-- 2020–Present	 &nbsp;&nbsp;&nbsp;&nbsp; 		Associate Editor, Science of Remote Sensing (sister journal of <b>RSE</b>)
-- 2017–Present	 &nbsp;&nbsp;&nbsp;&nbsp; 		Associate Editor, Photogrammetric Engineering & Remote Sensing
-- 2017–2020			 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	Associate Editor, Computers & Geosciences
+- 2020 – Present	 &nbsp;&nbsp;&nbsp;&nbsp; 		Associate Editor, Science of Remote Sensing (sister journal of <b>RSE</b>)
+- 2017 – Present	 &nbsp;&nbsp;&nbsp;&nbsp; 		Associate Editor, Photogrammetric Engineering & Remote Sensing
+- 2017 – 2020			 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	Associate Editor, Computers & Geosciences
 
 <h4><font color="black">Journal Reviewer</font></h4>
 
