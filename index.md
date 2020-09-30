@@ -204,6 +204,6 @@ Fit-FC (<a href="https://github.com/wqm11111/Fit-FC">Code</a>)
 
 - 2017	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grand Prize of the Science and Technology Progress Award in Surveying and Mapping (Ranking No. 4)
 - 2016		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outstanding PhD thesis in Faculty of Construction and Environment, Hong Kong PolyU
-- 2012 – 2015	  	Hong Kong PhD Fellowship
+- 2012 – 2015	 &thinsp;	Hong Kong PhD Fellowship
 - 2012      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   		Excellent Graduate in Harbin Engineering University, China
 - 2012      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 		Excellent Graduate in Heilongjiang Province, China
