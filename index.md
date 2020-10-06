@@ -45,13 +45,15 @@
 
 <h4><font color="black">2020</font></h4>
 
-[8]    <b>Q. Wang</b>, C. Zhang, X. Tong, P. M. Atkinson. General solution to reduce the point spread function effect in subpixel mapping. Remote Sensing of Environment, 2020, 251: 112054.
+[9]    <b>Q. Wang*</b>, C. Zhang, X. Tong*, P. M. Atkinson. General solution to reduce the point spread function effect in subpixel mapping. Remote Sensing of Environment, 2020, 251: 112054.
 
-[7]    <b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Virtual image pair-based spatio-temporal fusion. Remote Sensing of Environment, 2020, 249: 112009.
+[8]    <b>Q. Wang*</b>, Y. Tang, X. Tong*, P. M. Atkinson. Virtual image pair-based spatio-temporal fusion. Remote Sensing of Environment, 2020, 249: 112009.
 
-[6]    <b>Q. Wang</b>, C. Zhang, P. M. Atkinson. Sub-pixel mapping with point constraints. Remote Sensing of Environment, 2020, 244: 111817.
+[7]    <b>Q. Wang*</b>, C. Zhang, P. M. Atkinson. Sub-pixel mapping with point constraints. Remote Sensing of Environment, 2020, 244: 111817.
 
-[5]    <b>Q. Wang</b>, Y. Tang, P. M. Atkinson. The effect of the point spread function on downscaling continua. ISPRS Journal of Photogrammetry and Remote Sensing, 2020, 168: 251-267.
+[6]    <b>Q. Wang</b>, Y. Tang, P. M. Atkinson. The effect of the point spread function on downscaling continua. ISPRS Journal of Photogrammetry and Remote Sensing, 2020, 168: 251-267.
+
+[5]    L. Wang, X. Wang, <b>Q. Wang*</b>, P. M. Atkinson. Investigating the influence of registration errors on the patch-based spatial-temporal fusion method. IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing, in press.
 
 [4]    L. Wang, X. Wang, <b>Q. Wang*</b>. Using 250-m MODIS data for enhancing spatiotemporal fusion by sparse representation. Photogrammetric Engineering and Remote Sensing, 2020, 86(6): 383–392.
 
