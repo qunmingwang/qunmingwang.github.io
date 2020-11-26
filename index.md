@@ -15,12 +15,16 @@
 </table>
 
 
-[ <a href="#News">News</a> / <a href="#Research">Research Interests</a> / <a href="#Education">Education</a> / <a href="#Publications">Publications</a> / <a href="#Codes">Codes</a> / <a href="#Professional">Professional Service</a> / <a href="#Awards">Awards & Honors</a> ]
+[ <a href="#News">News</a> / <a href="#Research">Research Interests</a> / <a href="#Education">Education</a> / <a href="#Experience">Professional Experience</a> / <a href="#Publications">Publications</a> / <a href="#Codes">Codes</a> / <a href="#Professional">Professional Service</a> / <a href="#Awards">Awards & Honors</a> ]
 
 <a name="News"></a>
 <h3><font color="black">News</font></h3>
 
+- 11/2020		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on Landsat ETM+ SLC-off gap filling is accepted by <b>IEEE TGRS</b>
+- 08/2020		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on PSF in downscaling continua is published in <b>ISPRS JPRS</b> <a href="https://www.sciencedirect.com/science/article/abs/pii/S092427162030229X">https://www.sciencedirect.com/science/article/abs/pii/S092427162030229X</a> 
 - 08/2020		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on spatio-temporal fusion is published in <b>RSE</b> <a href="https://www.sciencedirect.com/science/article/pii/S0034425720303795">https://www.sciencedirect.com/science/article/pii/S0034425720303795</a> 
+- 08/2020		 &nbsp;&nbsp;&nbsp;&nbsp; 			Two papers on sub-pixel mapping are published in <b>RSE</b> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425720304247">https://www.sciencedirect.com/science/article/abs/pii/S0034425720304247</a> 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425720301875">https://www.sciencedirect.com/science/article/abs/pii/S0034425720301875</a>
 - 06/2020		 &nbsp;&nbsp;&nbsp;&nbsp; 			I am appointed Associate Editor for Science of Remote Sensing (sister journal of <b>RSE</b>) <a href="https://www.journals.elsevier.com/science-of-remote-sensing">https://www.journals.elsevier.com/science-of-remote-sensing</a> 
 
 <a name="Research"></a>
@@ -36,6 +40,15 @@
 - 08/2012 – 09/2015 &nbsp;&nbsp;&nbsp;&nbsp; <b>Ph.D.</b> in Photogrammetry and Remote Sensing, The Hong Kong Polytechnic University, HK
 - 09/2010 – 06/2012	&nbsp;&nbsp;&nbsp;&nbsp; <b>M.S.</b> in Signal and Information Processing, Harbin Engineering University, China
 - 09/2006 – 06/2010	&nbsp;&nbsp;&nbsp;&nbsp; <b>B.S.</b> in Electronics and Information Engineering, Harbin Engineering University, China
+
+<a name="Experience"></a>
+<h3><font color="black">Professional Experience</font></h3>
+
+- 05/2018 – Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professor, College of Surveying and Geo-Informatics, Tongji University, China
+- 08/2017 – 04/2018	&nbsp;&nbsp;&nbsp;&nbsp; Lecturer (Assistant Professor), Lancaster Environment Centre, Lancaster University, UK
+- 08/2015 – 07/2017	&nbsp;&nbsp;&nbsp;&nbsp; Senior Research Associate, Lancaster Environment Centre, Lancaster University, UK
+- 10/2016	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visiting Scholar, Institute of Earth Surface Dynamics, University of Lausanne, Switzerland (Invited by Prof. Gregoire Mariethoz)
+- 06/2013 – 12/2013	&nbsp;&nbsp;&nbsp;&nbsp; Visiting PhD student, Geography and Environment, University of Southampton, UK
 
 <a name="Publications"></a>
 <h3><font color="black">Publications</font></h3>
