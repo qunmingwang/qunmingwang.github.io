@@ -47,7 +47,7 @@
 - 05/2018 – Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professor, College of Surveying and Geo-Informatics, Tongji University, China
 - 08/2017 – 04/2018	&nbsp;&nbsp;&nbsp;&nbsp; Lecturer (Assistant Professor), Lancaster Environment Centre, Lancaster University, UK
 - 08/2015 – 07/2017	&nbsp;&nbsp;&nbsp;&nbsp; Senior Research Associate, Lancaster Environment Centre, Lancaster University, UK
-- 10/2016	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visiting Scholar, Institute of Earth Surface Dynamics, University of Lausanne, Switzerland (Invited by Prof. Gregoire Mariethoz)
+- 10/2016	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visiting Scholar, Institute of Earth Surface Dynamics, University of Lausanne, Switzerland (Invited by Prof. Gregoire Mariethoz)
 - 06/2013 – 12/2013	&nbsp;&nbsp;&nbsp;&nbsp; Visiting PhD student, Geography and Environment, University of Southampton, UK
 
 <a name="Publications"></a>
