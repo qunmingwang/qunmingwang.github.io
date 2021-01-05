@@ -163,13 +163,14 @@
 <a name="Codes"></a>
 <h3><font color="black">Codes</font></h3>
 
-- <b>Sub-pixel mapping</b> <br/>
+- <b>Sub-pixel mapping of remote sensing images based on radial basis function interpolation.</b> <br/>
 RBF-based sub-pixel mapping (<a href="https://github.com/qunmingwang/RBF-based-sub-pixel-mapping-codes">Code</a>) 
 
-- <b>Spatio-spectral fusion</b> <br/>
+- <b>Fusion of Sentinel-2 images.</b> <br/>
+- <b>Downscaling MODIS images with area-to-point regression kriging.</b> <br/>
 ATPRK (<a href="https://github.com/qunmingwang/Code-for-S2-fusion">Code</a>) 
 
-- <b>Spatio-temporal fusion</b> <br/>
+- <b>Spatio-temporal fusion for daily Sentinel-2 images.</b> <br/>
 Fit-FC (<a href="https://github.com/wqm11111/Fit-FC">Code</a>) 
 
 <a name="Professional"></a>
