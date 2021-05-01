@@ -63,7 +63,7 @@
 
 [3] <b>Q. Wang</b>, K. Peng, Y. Tang, X. Tong, P. M. Atkinson. Blocks-removed spatial unmixing for downscaling MODIS images. Remote Sensing of Environment, 2021, 256: 112325.
 
-[2] P. Lu, W. Shi, Q. Wang*, Z. Li*, Y. Qin, X. Fan. Landslide mapping using Sentinel-2 10 m fused NIR narrow, red-edge and SWIR bands. Landslides, in press.
+[2] P. Lu, W. Shi, <b>Q. Wang*</b>, Z. Li*, Y. Qin, X. Fan. Landslide mapping using Sentinel-2 10 m fused NIR narrow, red-edge and SWIR bands. Landslides, in press.
 
 [1] <b>Q. Wang</b>, L. Wang, Z. Li, X. Tong, P. M. Atkinson. Spatial-spectral radial basis function interpolation-based Landsat ETM+ SLC-off image gap filling. IEEE Transactions on Geoscience and Remote Sensing, DOI: 10.1109/TGRS.2020.3038878, in press.
 
