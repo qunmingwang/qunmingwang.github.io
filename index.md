@@ -63,21 +63,19 @@
 
 [3] <b>Q. Wang</b>, K. Peng, Y. Tang, X. Tong, P. M. Atkinson. Blocks-removed spatial unmixing for downscaling MODIS images. Remote Sensing of Environment, 2021, 256: 112325.
 
-[2] P. Lu, W. Shi, <b>Q. Wang</b>, Z. Li, Y. Qin, X. Fan. Landslide mapping using Sentinel-2 10 m fused NIR narrow, red-edge and SWIR bands. Landslides, in press.
+[2] P. Lu, W. Shi, <b>Q. Wang*</b>, Z. Li*, Y. Qin, X. Fan. Landslide mapping using Sentinel-2 10 m fused NIR narrow, red-edge and SWIR bands. Landslides, in press.
 
 [1] <b>Q. Wang</b>, L. Wang, Z. Li, X. Tong, P. M. Atkinson. Spatial-spectral radial basis function interpolation-based Landsat ETM+ SLC-off image gap filling. IEEE Transactions on Geoscience and Remote Sensing, DOI: 10.1109/TGRS.2020.3038878, in press.
 
 <h4><font color="black">2020</font></h4>
 
-[10]   <b>Q. Wang</b>, C. Zhang, X. Tong, P. M. Atkinson. General solution to reduce the point spread function effect in subpixel mapping. Remote Sensing of Environment, 2020, 251: 112054.
+[9]   <b>Q. Wang</b>, C. Zhang, X. Tong, P. M. Atkinson. General solution to reduce the point spread function effect in subpixel mapping. Remote Sensing of Environment, 2020, 251: 112054.
 
-[9]    <b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Virtual image pair-based spatio-temporal fusion. Remote Sensing of Environment, 2020, 249: 112009.
+[8]    <b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Virtual image pair-based spatio-temporal fusion. Remote Sensing of Environment, 2020, 249: 112009.
 
-[8]    <b>Q. Wang</b>, C. Zhang, P. M. Atkinson. Sub-pixel mapping with point constraints. Remote Sensing of Environment, 2020, 244: 111817.
+[7]    <b>Q. Wang</b>, C. Zhang, P. M. Atkinson. Sub-pixel mapping with point constraints. Remote Sensing of Environment, 2020, 244: 111817.
 
-[7]    <b>Q. Wang</b>, Y. Tang, P. M. Atkinson. The effect of the point spread function on downscaling continua. ISPRS Journal of Photogrammetry and Remote Sensing, 2020, 168: 251-267.
-
-[6]    <b>Q. Wang</b>, L. Wang, Z. Li, X. Tong, P. M. Atkinson. Spatial-spectral radial basis function interpolation-based Landsat ETM+ SLC-off image gap filling. IEEE Transactions on Geoscience and Remote Sensing, in press.
+[6]    <b>Q. Wang</b>, Y. Tang, P. M. Atkinson. The effect of the point spread function on downscaling continua. ISPRS Journal of Photogrammetry and Remote Sensing, 2020, 168: 251-267.
 
 [5]    L. Wang, X. Wang, <b>Q. Wang*</b>, P. M. Atkinson. Investigating the influence of registration errors on the patch-based spatio-temporal fusion method. IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing, 2020, 13: 6291–6307.
 
