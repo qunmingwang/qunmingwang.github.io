@@ -20,13 +20,17 @@
 <a name="News"></a>
 <h3><font color="black">News</font></h3>
 
+- 04/2021		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on spectral unmixing is published in <b>RSE</b>
+<a href="https://www.sciencedirect.com/science/article/pii/S0034425721001255">https://www.sciencedirect.com/science/article/pii/S0034425721001255</a>
+- 04/2021		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on spatio-temporal fusion is published in <b>RSE</b>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425721000432">https://www.sciencedirect.com/science/article/abs/pii/S0034425721000432</a>
 - 12/2020		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on Landsat ETM+ SLC-off gap filling is published in <b>IEEE TGRS</b>
 <a href="https://ieeexplore.ieee.org/document/9288925">https://ieeexplore.ieee.org/document/9288925</a>
 - 08/2020		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on PSF in downscaling continua is published in <b>ISPRS JPRS</b> <a href="https://www.sciencedirect.com/science/article/abs/pii/S092427162030229X">https://www.sciencedirect.com/science/article/abs/pii/S092427162030229X</a> 
 - 08/2020		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on spatio-temporal fusion is published in <b>RSE</b> <a href="https://www.sciencedirect.com/science/article/pii/S0034425720303795">https://www.sciencedirect.com/science/article/pii/S0034425720303795</a> 
 - 08/2020		 &nbsp;&nbsp;&nbsp;&nbsp; 			Two papers on sub-pixel mapping are published in <b>RSE</b> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425720304247">https://www.sciencedirect.com/science/article/abs/pii/S0034425720304247</a> 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425720301875">https://www.sciencedirect.com/science/article/abs/pii/S0034425720301875</a>
-- 06/2020		 &nbsp;&nbsp;&nbsp;&nbsp; 			I am appointed Associate Editor for Science of Remote Sensing (sister journal of <b>RSE</b>) <a href="https://www.journals.elsevier.com/science-of-remote-sensing">https://www.journals.elsevier.com/science-of-remote-sensing</a> 
+
 
 <a name="Research"></a>
 <h3><font color="black">Research Interests</font></h3>
@@ -56,6 +60,16 @@
 
 - Google Scholar: <a href="https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en">https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en</a>
 - Research Gate: <a href="https://www.researchgate.net/profile/Qunming_Wang">https://www.researchgate.net/profile/Qunming_Wang</a>
+
+<h4><font color="black">2021</font></h4>
+
+[4] <b>Q. Wang</b>, X. Ding, X. Tong, P. M. Atkinson. Spatio-temporal spectral unmixing of time-series images. Remote Sensing of Environment, 2021, 259: 112407.
+
+[3] <b>Q. Wang</b>, K. Peng, Y. Tang, X. Tong, P. M. Atkinson. Blocks-removed spatial unmixing for downscaling MODIS images. Remote Sensing of Environment, 2021, 256: 112325.
+
+[2] P. Lu, W. Shi, <b>Q. Wang</b>, Z. Li, Y. Qin, X. Fan. Landslide mapping using Sentinel-2 10 m fused NIR narrow, red-edge and SWIR bands. Landslides, in press.
+
+[1] <b>Q. Wang</b>, L. Wang, Z. Li, X. Tong, P. M. Atkinson. Spatial-spectral radial basis function interpolation-based Landsat ETM+ SLC-off image gap filling. IEEE Transactions on Geoscience and Remote Sensing, DOI: 10.1109/TGRS.2020.3038878, in press.
 
 <h4><font color="black">2020</font></h4>
 
