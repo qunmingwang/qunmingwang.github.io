@@ -26,10 +26,6 @@
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425721000432">https://www.sciencedirect.com/science/article/abs/pii/S0034425721000432</a>
 - 12/2020		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on Landsat ETM+ SLC-off gap filling is published in <b>IEEE TGRS</b>
 <a href="https://ieeexplore.ieee.org/document/9288925">https://ieeexplore.ieee.org/document/9288925</a>
-- 08/2020		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on PSF in downscaling continua is published in <b>ISPRS JPRS</b> <a href="https://www.sciencedirect.com/science/article/abs/pii/S092427162030229X">https://www.sciencedirect.com/science/article/abs/pii/S092427162030229X</a> 
-- 08/2020		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on spatio-temporal fusion is published in <b>RSE</b> <a href="https://www.sciencedirect.com/science/article/pii/S0034425720303795">https://www.sciencedirect.com/science/article/pii/S0034425720303795</a> 
-- 08/2020		 &nbsp;&nbsp;&nbsp;&nbsp; 			Two papers on sub-pixel mapping are published in <b>RSE</b> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425720304247">https://www.sciencedirect.com/science/article/abs/pii/S0034425720304247</a> 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425720301875">https://www.sciencedirect.com/science/article/abs/pii/S0034425720301875</a>
 
 
 <a name="Research"></a>
