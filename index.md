@@ -182,8 +182,14 @@ ATPRK (<a href="https://github.com/qunmingwang/Code-for-S2-fusion">Code</a>)
 - <b>Spatio-temporal fusion for daily Sentinel-2 images</b> <br/>
 Fit-FC (<a href="https://github.com/wqm11111/Fit-FC">Code</a>) 
 
+- <b>Virtual image pair-based spatio-temporal fusion</b> <br/>
+VIPSTF-SW (<a href="https://github.com/qunmingwang/VIPSTF-SW">Code</a>) 
+
 - <b>Information loss-guided multi-resolution image fusion</b> <br/>
 ILGIF (<a href="https://github.com/qunmingwang/ILGIF">Code</a>) 
+
+- <b>Spatial-spectral radial basis function-based interpolation for Landsat ETM+ SLC-Off image gap filling</b> <br/>
+ILGIF (<a href="https://github.com/qunmingwang/SSRBF">Code</a>) 
 
 <a name="Professional"></a>
 <h3><font color="black">Professional Service</font></h3>
