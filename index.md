@@ -189,7 +189,7 @@ VIPSTF-SW (<a href="https://github.com/qunmingwang/VIPSTF-SW">Code</a>)
 ILGIF (<a href="https://github.com/qunmingwang/ILGIF">Code</a>) 
 
 - <b>Spatial-spectral radial basis function-based interpolation for Landsat ETM+ SLC-Off image gap filling</b> <br/>
-ILGIF (<a href="https://github.com/qunmingwang/SSRBF">Code</a>) 
+SSRBF (<a href="https://github.com/qunmingwang/SSRBF">Code</a>) 
 
 <a name="Professional"></a>
 <h3><font color="black">Professional Service</font></h3>
