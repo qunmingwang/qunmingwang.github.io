@@ -38,9 +38,12 @@
 <a name="Education"></a>
 <h3><font color="black">Education</font></h3>
 
-- 08/2012 – 09/2015 &nbsp;&nbsp;&nbsp;&nbsp; <b>Ph.D.</b> in Photogrammetry and Remote Sensing, The Hong Kong Polytechnic University, HK
-- 09/2010 – 06/2012	&nbsp;&nbsp;&nbsp;&nbsp; <b>M.S.</b> in Signal and Information Processing, Harbin Engineering University, China
-- 09/2006 – 06/2010	&nbsp;&nbsp;&nbsp;&nbsp; <b>B.S.</b> in Electronics and Information Engineering, Harbin Engineering University, China
+- 08/2012 – 09/2015 &nbsp;&nbsp;&nbsp;&nbsp; <b>Ph.D.</b> in Photogrammetry and Remote Sensing, The Hong Kong 
+                                                Polytechnic University, HK
+- 09/2010 – 06/2012	&nbsp;&nbsp;&nbsp;&nbsp; <b>M.S.</b> in Signal and Information Processing, Harbin Engineering University, 
+                                                China
+- 09/2006 – 06/2010	&nbsp;&nbsp;&nbsp;&nbsp; <b>B.S.</b> in Electronics and Information Engineering, Harbin Engineering 
+                                                University, China
 
 <a name="Experience"></a>
 <h3><font color="black">Professional Experience</font></h3>
