@@ -63,17 +63,17 @@
 
 <h4><font color="black">2021</font></h4>
 
-[4] <b>Q. Wang</b>, X. Ding, X. Tong, P. M. Atkinson. Spatio-temporal spectral unmixing of time-series images. Remote Sensing of Environment, 2021, 259: 112407.
+[5] <b>Q. Wang</b>, X. Ding, X. Tong, P. M. Atkinson. Spatio-temporal spectral unmixing of time-series images. Remote Sensing of Environment, 2021, 259: 112407.
 
-[3] <b>Q. Wang</b>, K. Peng, Y. Tang, X. Tong, P. M. Atkinson. Blocks-removed spatial unmixing for downscaling MODIS images. Remote Sensing of Environment, 2021, 256: 112325.
+[4] <b>Q. Wang</b>, K. Peng, Y. Tang, X. Tong, P. M. Atkinson. Blocks-removed spatial unmixing for downscaling MODIS images. Remote Sensing of Environment, 2021, 256: 112325.
 
-[2] <b>Q. Wang</b>, L. Wang, C. Wei, Y. Jin, Z. Li, X. Tong, P. M. Atkinson. Filling gaps in Landsat ETM+ SLC-off images with Sentinel-2 images. International Journal of Applied Earth Observation and Geoinformation, 2021, 101: 102365.
+[3] <b>Q. Wang</b>, L. Wang, C. Wei, Y. Jin, Z. Li, X. Tong, P. M. Atkinson. Filling gaps in Landsat ETM+ SLC-off images with Sentinel-2 images. International Journal of Applied Earth Observation and Geoinformation, 2021, 101: 102365.
 
-[1] P. Lu, W. Shi, <b>Q. Wang* </b>, Z. Li* , Y. Qin, X. Fan. Co-seismic landslide mapping using Sentinel-2 10-m fused NIR narrow, red-edge and SWIR bands. Landslides, 2021, 18(6): 2017–2037.
+[2] P. Lu, W. Shi, <b>Q. Wang* </b>, Z. Li* , Y. Qin, X. Fan. Co-seismic landslide mapping using Sentinel-2 10-m fused NIR narrow, red-edge and SWIR bands. Landslides, 2021, 18(6): 2017–2037.
+
+[1] <b>Q. Wang</b>, L. Wang, Z. Li, X. Tong, P. M. Atkinson. Spatial-spectral radial basis function interpolation-based Landsat ETM+ SLC-off image gap filling. IEEE Transactions on Geoscience and Remote Sensing, DOI: 10.1109/TGRS.2020.3038878, in press.
 
 <h4><font color="black">2020</font></h4>
-
-[10] <b>Q. Wang</b>, L. Wang, Z. Li, X. Tong, P. M. Atkinson. Spatial-spectral radial basis function interpolation-based Landsat ETM+ SLC-off image gap filling. IEEE Transactions on Geoscience and Remote Sensing, 2020, 99: 1–17.
 
 [9]   <b>Q. Wang</b>, C. Zhang, X. Tong, P. M. Atkinson. General solution to reduce the point spread function effect in subpixel mapping. Remote Sensing of Environment, 2020, 251: 112054.
 
