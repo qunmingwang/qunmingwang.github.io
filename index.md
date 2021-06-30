@@ -1,3 +1,5 @@
+margin:10px;
+
 <table border="0">
   <tr>
     <td width="20%">
