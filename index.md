@@ -67,13 +67,13 @@
 
 [7] <b>Q. Wang</b>, K. Peng, Y. Tang, X. Tong, P. M. Atkinson. Blocks-removed spatial unmixing for downscaling MODIS images. Remote Sensing of Environment, 2021, 256: 112325.
 
-[6] K. Peng, <b>Q. Wang*</b>, Y. Tang, X. Tong, P. M. Atkinson. Geographically weighted spatial unmixing for spatio-temporal fusion. IEEE Transactions on Geoscience and Remote Sensing (in press).
+[6] Y. Tang, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. Integrating spatio-temporal-spectral information for downscaling Sentinel-3 OLCI images. ISPRS Journal of Photogrammetry and Remote Sensing (in press).
 
-[5] Y. Tang, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. Integrating spatio-temporal-spectral information for downscaling Sentinel-3 OLCI images. ISPRS Journal of Photogrammetry and Remote Sensing (in press).
+[5] <b>Q. Wang</b>, L. Wang, C. Wei, Y. Jin, Z. Li, X. Tong, P. M. Atkinson. Filling gaps in Landsat ETM+ SLC-off images with Sentinel-2 images. International Journal of Applied Earth Observation and Geoinformation, 2021, 101: 102365.
 
-[4] <b>Q. Wang</b>, L. Wang, C. Wei, Y. Jin, Z. Li, X. Tong, P. M. Atkinson. Filling gaps in Landsat ETM+ SLC-off images with Sentinel-2 images. International Journal of Applied Earth Observation and Geoinformation, 2021, 101: 102365.
+[4] P. Lu, W. Shi, <b>Q. Wang* </b>, Z. Li* , Y. Qin, X. Fan. Co-seismic landslide mapping using Sentinel-2 10-m fused NIR narrow, red-edge and SWIR bands. Landslides, 2021, 18(6): 2017–2037.
 
-[3] P. Lu, W. Shi, <b>Q. Wang* </b>, Z. Li* , Y. Qin, X. Fan. Co-seismic landslide mapping using Sentinel-2 10-m fused NIR narrow, red-edge and SWIR bands. Landslides, 2021, 18(6): 2017–2037.
+[3] K. Peng, <b>Q. Wang*</b>, Y. Tang, X. Tong, P. M. Atkinson. Geographically weighted spatial unmixing for spatio-temporal fusion. IEEE Transactions on Geoscience and Remote Sensing (in press).
 
 [2] L. Wang, L. Wang, <b>Q. Wang*</b>, P. M. Atkinson. SSA-SiamNet: Spatial-spectral-wise attention-based Siamese network for hyperspectral image change detection. IEEE Transactions on Geoscience and Remote Sensing (in press)
 
