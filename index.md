@@ -63,9 +63,13 @@
 
 <h4><font color="black">2021</font></h4>
 
-[6] <b>Q. Wang</b>, X. Ding, X. Tong, P. M. Atkinson. Spatio-temporal spectral unmixing of time-series images. Remote Sensing of Environment, 2021, 259: 112407.
+[8] <b>Q. Wang</b>, X. Ding, X. Tong, P. M. Atkinson. Spatio-temporal spectral unmixing of time-series images. Remote Sensing of Environment, 2021, 259: 112407.
 
-[5] <b>Q. Wang</b>, K. Peng, Y. Tang, X. Tong, P. M. Atkinson. Blocks-removed spatial unmixing for downscaling MODIS images. Remote Sensing of Environment, 2021, 256: 112325.
+[7] <b>Q. Wang</b>, K. Peng, Y. Tang, X. Tong, P. M. Atkinson. Blocks-removed spatial unmixing for downscaling MODIS images. Remote Sensing of Environment, 2021, 256: 112325.
+
+[6] K. Peng, <b>Q. Wang*</b>, Y. Tang, X. Tong, P. M. Atkinson. Geographically weighted spatial unmixing for spatio-temporal fusion. IEEE Transactions on Geoscience and Remote Sensing (in press).
+
+[5] Y. Tang, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. Integrating spatio-temporal-spectral information for downscaling Sentinel-3 OLCI images. ISPRS Journal of Photogrammetry and Remote Sensing (in press).
 
 [4] <b>Q. Wang</b>, L. Wang, C. Wei, Y. Jin, Z. Li, X. Tong, P. M. Atkinson. Filling gaps in Landsat ETM+ SLC-off images with Sentinel-2 images. International Journal of Applied Earth Observation and Geoinformation, 2021, 101: 102365.
 
