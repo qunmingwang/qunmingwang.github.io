@@ -75,7 +75,7 @@
 
 [3] K. Peng, <b>Q. Wang*</b>, Y. Tang, X. Tong, P. M. Atkinson. Geographically weighted spatial unmixing for spatio-temporal fusion. IEEE Transactions on Geoscience and Remote Sensing (in press).
 
-[2] L. Wang, L. Wang, <b>Q. Wang*</b>, P. M. Atkinson. SSA-SiamNet: Spatial-spectral-wise attention-based Siamese network for hyperspectral image change detection. IEEE Transactions on Geoscience and Remote Sensing (in press)
+[2] L. Wang, L. Wang, <b>Q. Wang*</b>, P. M. Atkinson. SSA-SiamNet: Spatial-spectral-wise attention-based Siamese network for hyperspectral image change detection. IEEE Transactions on Geoscience and Remote Sensing (in press).
 
 [1] <b>Q. Wang</b>, L. Wang, Z. Li, X. Tong, P. M. Atkinson. Spatial-spectral radial basis function interpolation-based Landsat ETM+ SLC-off image gap filling. IEEE Transactions on Geoscience and Remote Sensing, DOI: 10.1109/TGRS.2020.3038878, in press.
 
