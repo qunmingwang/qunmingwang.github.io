@@ -63,39 +63,35 @@
 
 <h4><font color="black">2021</font></h4>
 
-[10] <b>Q. Wang</b>, X. Ding, X. Tong, P. M. Atkinson. Spatio-temporal spectral unmixing of time-series images. Remote Sensing of Environment, 2021, 259: 112407.
+[9] <b>Q. Wang</b>, X. Ding, X. Tong, P. M. Atkinson. Spatio-temporal spectral unmixing of time-series images. Remote Sensing of Environment, 2021, 259: 112407.
 
-[9] <b>Q. Wang</b>, K. Peng, Y. Tang, X. Tong, P. M. Atkinson. Blocks-removed spatial unmixing for downscaling MODIS images. Remote Sensing of Environment, 2021, 256: 112325.
+[8] <b>Q. Wang</b>, K. Peng, Y. Tang, X. Tong, P. M. Atkinson. Blocks-removed spatial unmixing for downscaling MODIS images. Remote Sensing of Environment, 2021, 256: 112325.
 
-[8] Y. Tang, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. Integrating spatio-temporal-spectral information for downscaling Sentinel-3 OLCI images. ISPRS Journal of Photogrammetry and Remote Sensing (in press).
+[7] Y. Tang, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. Integrating spatio-temporal-spectral information for downscaling Sentinel-3 OLCI images. ISPRS Journal of Photogrammetry and Remote Sensing (in press).
 
-[7] <b>Q. Wang</b>, L. Wang, C. Wei, Y. Jin, Z. Li, X. Tong, P. M. Atkinson. Filling gaps in Landsat ETM+ SLC-off images with Sentinel-2 images. International Journal of Applied Earth Observation and Geoinformation, 2021, 101: 102365.
+[6] <b>Q. Wang</b>, L. Wang, C. Wei, Y. Jin, Z. Li, X. Tong, P. M. Atkinson. Filling gaps in Landsat ETM+ SLC-off images with Sentinel-2 images. International Journal of Applied Earth Observation and Geoinformation, 2021, 101: 102365.
 
-[6] P. Lu, W. Shi, <b>Q. Wang* </b>, Z. Li* , Y. Qin, X. Fan. Co-seismic landslide mapping using Sentinel-2 10-m fused NIR narrow, red-edge and SWIR bands. Landslides, 2021, 18(6): 2017–2037.
+[5] P. Lu, W. Shi, <b>Q. Wang* </b>, Z. Li* , Y. Qin, X. Fan. Co-seismic landslide mapping using Sentinel-2 10-m fused NIR narrow, red-edge and SWIR bands. Landslides, 2021, 18(6): 2017–2037.
 
-[5] K. Peng, <b>Q. Wang*</b>, Y. Tang, X. Tong, P. M. Atkinson. Geographically weighted spatial unmixing for spatio-temporal fusion. IEEE Transactions on Geoscience and Remote Sensing (in press).
+[4] K. Peng, <b>Q. Wang*</b>, Y. Tang, X. Tong, P. M. Atkinson. Geographically weighted spatial unmixing for spatio-temporal fusion. IEEE Transactions on Geoscience and Remote Sensing (in press).
 
-[4] L. Wang, L. Wang, <b>Q. Wang*</b>, P. M. Atkinson. SSA-SiamNet: Spatial-spectral-wise attention-based Siamese network for hyperspectral image change detection. IEEE Transactions on Geoscience and Remote Sensing (in press).
+[3] L. Wang, L. Wang, <b>Q. Wang*</b>, P. M. Atkinson. SSA-SiamNet: Spatial-spectral-wise attention-based Siamese network for hyperspectral image change detection. IEEE Transactions on Geoscience and Remote Sensing (in press).
 
-[3] <b>Q. Wang</b>, X. Ding, X. Tong, P. M. Atkinson. Real-time spatiotemporal spectral unmixing of MODIS images. IEEE Transactions on Geoscience and Remote Sensing (in press).
-
-[2] X. Ding, <b>Q. Wang*</b>. Augmented sample-based real-time spatiotemporal spectral unmixing. Photogrammetric Engineering and Remote Sensing (in press).
+[2] <b>Q. Wang</b>, X. Ding, X. Tong, P. M. Atkinson. Real-time spatiotemporal spectral unmixing of MODIS images. IEEE Transactions on Geoscience and Remote Sensing (in press).
 
 [1] <b>Q. Wang</b>, L. Wang, Z. Li, X. Tong, P. M. Atkinson. Spatial-spectral radial basis function interpolation-based Landsat ETM+ SLC-off image gap filling. IEEE Transactions on Geoscience and Remote Sensing, 2021, 59(9): 7901–7917.
 
 <h4><font color="black">2020</font></h4>
 
-[9]   <b>Q. Wang</b>, C. Zhang, X. Tong, P. M. Atkinson. General solution to reduce the point spread function effect in subpixel mapping. Remote Sensing of Environment, 2020, 251: 112054.
+[8]   <b>Q. Wang</b>, C. Zhang, X. Tong, P. M. Atkinson. General solution to reduce the point spread function effect in subpixel mapping. Remote Sensing of Environment, 2020, 251: 112054.
 
-[8]    <b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Virtual image pair-based spatio-temporal fusion. Remote Sensing of Environment, 2020, 249: 112009.
+[7]    <b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Virtual image pair-based spatio-temporal fusion. Remote Sensing of Environment, 2020, 249: 112009.
 
-[7]    <b>Q. Wang</b>, C. Zhang, P. M. Atkinson. Sub-pixel mapping with point constraints. Remote Sensing of Environment, 2020, 244: 111817.
+[6]    <b>Q. Wang</b>, C. Zhang, P. M. Atkinson. Sub-pixel mapping with point constraints. Remote Sensing of Environment, 2020, 244: 111817.
 
-[6]    <b>Q. Wang</b>, Y. Tang, P. M. Atkinson. The effect of the point spread function on downscaling continua. ISPRS Journal of Photogrammetry and Remote Sensing, 2020, 168: 251-267.
+[5]    <b>Q. Wang</b>, Y. Tang, P. M. Atkinson. The effect of the point spread function on downscaling continua. ISPRS Journal of Photogrammetry and Remote Sensing, 2020, 168: 251-267.
 
-[5]    L. Wang, X. Wang, <b>Q. Wang*</b>, P. M. Atkinson. Investigating the influence of registration errors on the patch-based spatio-temporal fusion method. IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing, 2020, 13: 6291–6307.
-
-[4]    L. Wang, X. Wang, <b>Q. Wang*</b>. Using 250-m MODIS data for enhancing spatiotemporal fusion by sparse representation. Photogrammetric Engineering and Remote Sensing, 2020, 86(6): 383–392.
+[4]    L. Wang, X. Wang, <b>Q. Wang*</b>, P. M. Atkinson. Investigating the influence of registration errors on the patch-based spatio-temporal fusion method. IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing, 2020, 13: 6291–6307.
 
 [3]    <b>Q. Wang</b>, X. Tong, P. M. Atkinson. A geostatistical filter for remote sensing image enhancement. Mathematical Geosciences, 2020, 52(3): 317–336.
 
