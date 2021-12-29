@@ -26,8 +26,6 @@
 <a href="https://www.sciencedirect.com/science/article/pii/S0034425721001255">https://www.sciencedirect.com/science/article/pii/S0034425721001255</a>
 - 04/2021		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on spatio-temporal fusion is published in <b>RSE</b><br/>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425721000432">https://www.sciencedirect.com/science/article/abs/pii/S0034425721000432</a>
-- 12/2020		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on Landsat ETM+ SLC-off gap filling is published in <b>IEEE TGRS</b><br/>
-<a href="https://ieeexplore.ieee.org/document/9288925">https://ieeexplore.ieee.org/document/9288925</a>
 
 
 <a name="Research"></a>
