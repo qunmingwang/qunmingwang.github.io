@@ -21,6 +21,7 @@
 <a name="News"></a>
 <h3><font color="black">News</font></h3>
 
+- 12/2021		 &nbsp;&nbsp;&nbsp;&nbsp; 			I join the Editorial Board of RSE
 - 04/2021		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on spectral unmixing is published in <b>RSE</b><br/>
 <a href="https://www.sciencedirect.com/science/article/pii/S0034425721001255">https://www.sciencedirect.com/science/article/pii/S0034425721001255</a>
 - 04/2021		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on spatio-temporal fusion is published in <b>RSE</b><br/>
@@ -63,15 +64,17 @@
 
 <h4><font color="black">2021</font></h4>
 
-[9] <b>Q. Wang</b>, X. Ding, X. Tong, P. M. Atkinson. Spatio-temporal spectral unmixing of time-series images. Remote Sensing of Environment, 2021, 259: 112407.
+[10] <b>Q. Wang</b>, X. Ding, X. Tong, P. M. Atkinson. Spatio-temporal spectral unmixing of time-series images. Remote Sensing of Environment, 2021, 259: 112407.
 
-[8] <b>Q. Wang</b>, K. Peng, Y. Tang, X. Tong, P. M. Atkinson. Blocks-removed spatial unmixing for downscaling MODIS images. Remote Sensing of Environment, 2021, 256: 112325.
+[9] <b>Q. Wang</b>, K. Peng, Y. Tang, X. Tong, P. M. Atkinson. Blocks-removed spatial unmixing for downscaling MODIS images. Remote Sensing of Environment, 2021, 256: 112325.
 
-[7] Y. Tang, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. Integrating spatio-temporal-spectral information for downscaling Sentinel-3 OLCI images. ISPRS Journal of Photogrammetry and Remote Sensing (in press).
+[8] Y. Tang, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. Integrating spatio-temporal-spectral information for downscaling Sentinel-3 OLCI images. ISPRS Journal of Photogrammetry and Remote Sensing (in press).
 
-[6] <b>Q. Wang</b>, L. Wang, C. Wei, Y. Jin, Z. Li, X. Tong, P. M. Atkinson. Filling gaps in Landsat ETM+ SLC-off images with Sentinel-2 images. International Journal of Applied Earth Observation and Geoinformation, 2021, 101: 102365.
+[7] <b>Q. Wang</b>, L. Wang, C. Wei, Y. Jin, Z. Li, X. Tong, P. M. Atkinson. Filling gaps in Landsat ETM+ SLC-off images with Sentinel-2 images. International Journal of Applied Earth Observation and Geoinformation, 2021, 101: 102365.
 
-[5] P. Lu, W. Shi, <b>Q. Wang* </b>, Z. Li* , Y. Qin, X. Fan. Co-seismic landslide mapping using Sentinel-2 10-m fused NIR narrow, red-edge and SWIR bands. Landslides, 2021, 18(6): 2017–2037.
+[6] P. Lu, W. Shi, <b>Q. Wang* </b>, Z. Li* , Y. Qin, X. Fan. Co-seismic landslide mapping using Sentinel-2 10-m fused NIR narrow, red-edge and SWIR bands. Landslides, 2021, 18(6): 2017–2037.
+
+[5] C. Zhang, <b>Q. Wang*</b>, P. Lu, Y. Ge, P. M. Atkinson. Fast and slow changes constrained spatio-temporal subpixel mapping. IEEE Transactions on Geoscience and Remote Sensing (in press).
 
 [4] K. Peng, <b>Q. Wang*</b>, Y. Tang, X. Tong, P. M. Atkinson. Geographically weighted spatial unmixing for spatio-temporal fusion. IEEE Transactions on Geoscience and Remote Sensing (in press).
 
