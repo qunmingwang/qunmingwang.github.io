@@ -21,7 +21,7 @@
 <a name="News"></a>
 <h3><font color="black">News</font></h3>
 
-- 12/2021		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 			I join the Editorial Board of <b>RSE</b><br/>
+- 12/2021		 &nbsp;&nbsp;&nbsp;&nbsp;&thinsp;			I join the Editorial Board of <b>RSE</b><br/>
 - 04/2021		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on spectral unmixing is published in <b>RSE</b><br/>
 <a href="https://www.sciencedirect.com/science/article/pii/S0034425721001255">https://www.sciencedirect.com/science/article/pii/S0034425721001255</a>
 - 04/2021		 &nbsp;&nbsp;&nbsp;&nbsp; 			A paper on spatio-temporal fusion is published in <b>RSE</b><br/>
