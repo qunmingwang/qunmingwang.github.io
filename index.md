@@ -62,27 +62,39 @@
 - Google Scholar: <a href="https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en">https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en</a>
 - Research Gate: <a href="https://www.researchgate.net/profile/Qunming_Wang">https://www.researchgate.net/profile/Qunming_Wang</a>
 
+<h4><font color="black">2022</font></h4>
+
+[9]	X. Ma, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. A deep learning model for incorporating temporal information in haze removal. Remote Sensing of Environment, 2022, 274: 113012.
+
+[8] C. Zhang, <b>Q. Wang*</b>, P. Lu, Y. Ge, P. M. Atkinson. Fast and slow changes constrained spatio-temporal subpixel mapping. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 5406616.
+
+[7] <b>Q. Wang</b>, X. Ding, X. Tong, P. M. Atkinson. Real-time spatiotemporal spectral unmixing of MODIS images. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 5404816.
+
+[6] K. Peng, <b>Q. Wang*</b>, Y. Tang, X. Tong, P. M. Atkinson. Geographically weighted spatial unmixing for spatio-temporal fusion. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 5404217.
+
+[5] L. Wang, L. Wang, <b>Q. Wang*</b>, P. M. Atkinson. SSA-SiamNet: Spatial-spectral-wise attention-based Siamese network for hyperspectral image change detection. IEEE Transactions on Geoscience and Remote Sensingg, 2022, 60: 5510018.
+
+[4]	<b>Q. Wang</b>, L. Wang, X. Zhu, X. Tong, P. M. Atkinson. Remote sensing image gap filling based on spatial-spectral random forests. Science of Remote Sensing, 2022, 5: 100048.
+
+[3]	H. Yang, <b>Q. Wang*</b>, W. Zhao, X. Tong, P. M. Atkinson. Reconstruction of global 9 km, 8-day SMAP surface soil moisture dataset during 2015-2020 by spatio-temporal fusion. Journal of Remote Sensing (in press).
+
+[2]	<b>王群明</b>, 张智昊, 张成媛. 融合Sentinel-2数据的高分五号高光谱数据降尺度. 遥感学报, 2022, DOI: 10.11834/jrs.20211420 (网络发表).
+
+[1]	王蓝星, <b>王群明*</b>, 童小华. 融合多光谱影像的高光谱影像厚云去除方法. 测绘学报, 2022 (已录用).
+
 <h4><font color="black">2021</font></h4>
 
-[10] <b>Q. Wang</b>, X. Ding, X. Tong, P. M. Atkinson. Spatio-temporal spectral unmixing of time-series images. Remote Sensing of Environment, 2021, 259: 112407.
+[6] <b>Q. Wang</b>, X. Ding, X. Tong, P. M. Atkinson. Spatio-temporal spectral unmixing of time-series images. Remote Sensing of Environment, 2021, 259: 112407.
 
-[9] <b>Q. Wang</b>, K. Peng, Y. Tang, X. Tong, P. M. Atkinson. Blocks-removed spatial unmixing for downscaling MODIS images. Remote Sensing of Environment, 2021, 256: 112325.
+[5] <b>Q. Wang</b>, K. Peng, Y. Tang, X. Tong, P. M. Atkinson. Blocks-removed spatial unmixing for downscaling MODIS images. Remote Sensing of Environment, 2021, 256: 112325.
 
-[8] Y. Tang, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. Integrating spatio-temporal-spectral information for downscaling Sentinel-3 OLCI images. ISPRS Journal of Photogrammetry and Remote Sensing (in press).
+[4] Y. Tang, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. Integrating spatio-temporal-spectral information for downscaling Sentinel-3 OLCI images. ISPRS Journal of Photogrammetry and Remote Sensing, 2021, 180: 130–150.
 
-[7] <b>Q. Wang</b>, L. Wang, C. Wei, Y. Jin, Z. Li, X. Tong, P. M. Atkinson. Filling gaps in Landsat ETM+ SLC-off images with Sentinel-2 images. International Journal of Applied Earth Observation and Geoinformation, 2021, 101: 102365.
+[3] <b>Q. Wang</b>, L. Wang, Z. Li, X. Tong, P. M. Atkinson. Spatial-spectral radial basis function interpolation-based Landsat ETM+ SLC-off image gap filling. IEEE Transactions on Geoscience and Remote Sensing, 2021, 59(9): 7901–7917.
 
-[6] P. Lu, W. Shi, <b>Q. Wang* </b>, Z. Li* , Y. Qin, X. Fan. Co-seismic landslide mapping using Sentinel-2 10-m fused NIR narrow, red-edge and SWIR bands. Landslides, 2021, 18(6): 2017–2037.
+[2] <b>Q. Wang</b>, L. Wang, C. Wei, Y. Jin, Z. Li, X. Tong, P. M. Atkinson. Filling gaps in Landsat ETM+ SLC-off images with Sentinel-2 images. International Journal of Applied Earth Observation and Geoinformation, 2021, 101: 102365.
 
-[5] C. Zhang, <b>Q. Wang*</b>, P. Lu, Y. Ge, P. M. Atkinson. Fast and slow changes constrained spatio-temporal subpixel mapping. IEEE Transactions on Geoscience and Remote Sensing (in press).
-
-[4] K. Peng, <b>Q. Wang*</b>, Y. Tang, X. Tong, P. M. Atkinson. Geographically weighted spatial unmixing for spatio-temporal fusion. IEEE Transactions on Geoscience and Remote Sensing (in press).
-
-[3] L. Wang, L. Wang, <b>Q. Wang*</b>, P. M. Atkinson. SSA-SiamNet: Spatial-spectral-wise attention-based Siamese network for hyperspectral image change detection. IEEE Transactions on Geoscience and Remote Sensing (in press).
-
-[2] <b>Q. Wang</b>, X. Ding, X. Tong, P. M. Atkinson. Real-time spatiotemporal spectral unmixing of MODIS images. IEEE Transactions on Geoscience and Remote Sensing (in press).
-
-[1] <b>Q. Wang</b>, L. Wang, Z. Li, X. Tong, P. M. Atkinson. Spatial-spectral radial basis function interpolation-based Landsat ETM+ SLC-off image gap filling. IEEE Transactions on Geoscience and Remote Sensing, 2021, 59(9): 7901–7917.
+[1] P. Lu, W. Shi, <b>Q. Wang* </b>, Z. Li* , Y. Qin, X. Fan. Co-seismic landslide mapping using Sentinel-2 10-m fused NIR narrow, red-edge and SWIR bands. Landslides, 2021, 18(6): 2017–2037.
 
 <h4><font color="black">2020</font></h4>
 
