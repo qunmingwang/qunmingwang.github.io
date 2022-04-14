@@ -64,7 +64,9 @@
 
 <h4><font color="black">2022</font></h4>
 
-[9]	X. Ma, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. A deep learning model for incorporating temporal information in haze removal. Remote Sensing of Environment, 2022, 274: 113012.
+[10]	X. Ma, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. A deep learning model for incorporating temporal information in haze removal. Remote Sensing of Environment, 2022, 274: 113012.
+
+[9] X. Ma, <b>Q. Wang*</b>, X. Tong. A spectral grouping-based deep learning model for haze removal of hyperspectral images. ISPRS Journal of Photogrammetry and Remote Sensing (in press).
 
 [8] C. Zhang, <b>Q. Wang*</b>, P. Lu, Y. Ge, P. M. Atkinson. Fast and slow changes constrained spatio-temporal subpixel mapping. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 5406616.
 
