@@ -83,11 +83,11 @@
 
 [6] X. Ding, <b>Q. Wang*</b>, X. Tong. Integrating 250 m MODIS data in spectral unmixing for 500 m fractional vegetation cover estimation. International Journal of Applied Earth Observation and Geoinformation, 2022, 111: 102860.
 
-[5] C. Zhang, <b>Q. Wang*</b>, H. Xie, Y. Ge, P. M. Atkinson. Spatio-temporal subpixel mapping with cloudy images. Science of Remote Sensing (in press).
+[5] H. Yang, <b>Q. Wang*</b>, W. Zhao, X. Tong, P. M. Atkinson. Reconstruction of global 9 km, 8-day SMAP surface soil moisture dataset during 2015-2020 by spatio-temporal fusion. Journal of Remote Sensing, 2022, 9871246.
 
-[4]	<b>Q. Wang</b>, L. Wang, X. Zhu, X. Tong, P. M. Atkinson. Remote sensing image gap filling based on spatial-spectral random forests. Science of Remote Sensing, 2022, 5: 100048.
+[4] C. Zhang, <b>Q. Wang*</b>, H. Xie, Y. Ge, P. M. Atkinson. Spatio-temporal subpixel mapping with cloudy images. Science of Remote Sensing (in press).
 
-[3] H. Yang, <b>Q. Wang*</b>, W. Zhao, X. Tong, P. M. Atkinson. Reconstruction of global 9 km, 8-day SMAP surface soil moisture dataset during 2015-2020 by spatio-temporal fusion. Journal of Remote Sensing, 2022, 9871246.
+[3]	<b>Q. Wang</b>, L. Wang, X. Zhu, X. Tong, P. M. Atkinson. Remote sensing image gap filling based on spatial-spectral random forests. Science of Remote Sensing, 2022, 5: 100048.
 
 [2]	<b>王群明</b>, 张智昊, 张成媛. 融合Sentinel-2数据的高分五号高光谱数据降尺度. 遥感学报, 2022, DOI: 10.11834/jrs.20211420 (网络发表).
 
