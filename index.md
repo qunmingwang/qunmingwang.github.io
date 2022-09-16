@@ -64,6 +64,12 @@
 
 <h4><font color="black">2022</font></h4>
 
+[14] J. Zeng, <b>Q. Wang*</b>. Sparse tensor model-based spectral angle detector for hyperspectral target detection. IEEE Transactions on Geoscience and Remote Sensing (in press).
+
+[13] C. Zhang, <b>Q. Wang*</b>, H. Xie, Y. Ge, P. M. Atkinson. Spatio-temporal subpixel mapping with cloudy images. Science of Remote Sensing (in press).
+
+[12] H. Yang, <b>Q. Wang*</b>, W. Zhao, X. Tong, P. M. Atkinson. Reconstruction of global 9 km, 8-day SMAP surface soil moisture dataset during 2015-2020 by spatio-temporal fusion. Journal of Remote Sensing, 2022, 9871246.
+
 [11]	X. Ma, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. A deep learning model for incorporating temporal information in haze removal. Remote Sensing of Environment, 2022, 274: 113012.
 
 [10] X. Ma, <b>Q. Wang*</b>, X. Tong. A spectral grouping-based deep learning model for haze removal of hyperspectral images. ISPRS Journal of Photogrammetry and Remote Sensing, 2022, 188: 177–189.
