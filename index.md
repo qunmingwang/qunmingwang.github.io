@@ -64,29 +64,30 @@
 
 <h4><font color="black">2022</font></h4>
 
-[14] J. Zeng, <b>Q. Wang*</b>. Sparse tensor model-based spectral angle detector for hyperspectral target detection. IEEE Transactions on Geoscience and Remote Sensing (in press).
 
-[13] C. Zhang, <b>Q. Wang*</b>, H. Xie, Y. Ge, P. M. Atkinson. Spatio-temporal subpixel mapping with cloudy images. Science of Remote Sensing (in press).
+[14]	X. Ma, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. A deep learning model for incorporating temporal information in haze removal. Remote Sensing of Environment, 2022, 274: 113012.
 
-[12] H. Yang, <b>Q. Wang*</b>, W. Zhao, X. Tong, P. M. Atkinson. Reconstruction of global 9 km, 8-day SMAP surface soil moisture dataset during 2015-2020 by spatio-temporal fusion. Journal of Remote Sensing, 2022, 9871246.
+[13] X. Ma, <b>Q. Wang*</b>, X. Tong. A spectral grouping-based deep learning model for haze removal of hyperspectral images. ISPRS Journal of Photogrammetry and Remote Sensing, 2022, 188: 177–189.
 
-[11]	X. Ma, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. A deep learning model for incorporating temporal information in haze removal. Remote Sensing of Environment, 2022, 274: 113012.
+[12] J. Zeng, <b>Q. Wang*</b>. Sparse tensor model-based spectral angle detector for hyperspectral target detection. IEEE Transactions on Geoscience and Remote Sensing (in press).
 
-[10] X. Ma, <b>Q. Wang*</b>, X. Tong. A spectral grouping-based deep learning model for haze removal of hyperspectral images. ISPRS Journal of Photogrammetry and Remote Sensing, 2022, 188: 177–189.
+[11] L. Wang, L. Wang, <b>Q. Wang*</b>, B. Lorenzo. RSCNet: Residual self-calibrated network for hyperspectral image change detection. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 5529917.
 
-[9] L. Wang, L. Wang, <b>Q. Wang*</b>, B. Lorenzo. RSCNet: Residual self-calibrated network for hyperspectral image change detection. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 5529917.
+[10] C. Zhang, <b>Q. Wang*</b>, P. Lu, Y. Ge, P. M. Atkinson. Fast and slow changes constrained spatio-temporal subpixel mapping. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 5406616.
 
-[8] C. Zhang, <b>Q. Wang*</b>, P. Lu, Y. Ge, P. M. Atkinson. Fast and slow changes constrained spatio-temporal subpixel mapping. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 5406616.
+[9] <b>Q. Wang</b>, X. Ding, X. Tong, P. M. Atkinson. Real-time spatiotemporal spectral unmixing of MODIS images. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 5404816.
 
-[7] <b>Q. Wang</b>, X. Ding, X. Tong, P. M. Atkinson. Real-time spatiotemporal spectral unmixing of MODIS images. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 5404816.
+[8] K. Peng, <b>Q. Wang*</b>, Y. Tang, X. Tong, P. M. Atkinson. Geographically weighted spatial unmixing for spatio-temporal fusion. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 5404217.
 
-[6] K. Peng, <b>Q. Wang*</b>, Y. Tang, X. Tong, P. M. Atkinson. Geographically weighted spatial unmixing for spatio-temporal fusion. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 5404217.
+[7] L. Wang, L. Wang, <b>Q. Wang*</b>, P. M. Atkinson. SSA-SiamNet: Spatial-spectral-wise attention-based Siamese network for hyperspectral image change detection. IEEE Transactions on Geoscience and Remote Sensingg, 2022, 60: 5510018.
 
-[5] L. Wang, L. Wang, <b>Q. Wang*</b>, P. M. Atkinson. SSA-SiamNet: Spatial-spectral-wise attention-based Siamese network for hyperspectral image change detection. IEEE Transactions on Geoscience and Remote Sensingg, 2022, 60: 5510018.
+[6] X. Ding, <b>Q. Wang*</b>, X. Tong. Integrating 250 m MODIS data in spectral unmixing for 500 m fractional vegetation cover estimation. International Journal of Applied Earth Observation and Geoinformation, 2022, 111: 102860.
 
-[4] X. Ding, <b>Q. Wang*</b>, X. Tong. Integrating 250 m MODIS data in spectral unmixing for 500 m fractional vegetation cover estimation. International Journal of Applied Earth Observation and Geoinformation, 2022, 111: 102860.
+[5] C. Zhang, <b>Q. Wang*</b>, H. Xie, Y. Ge, P. M. Atkinson. Spatio-temporal subpixel mapping with cloudy images. Science of Remote Sensing (in press).
 
-[3]	<b>Q. Wang</b>, L. Wang, X. Zhu, X. Tong, P. M. Atkinson. Remote sensing image gap filling based on spatial-spectral random forests. Science of Remote Sensing, 2022, 5: 100048.
+[4]	<b>Q. Wang</b>, L. Wang, X. Zhu, X. Tong, P. M. Atkinson. Remote sensing image gap filling based on spatial-spectral random forests. Science of Remote Sensing, 2022, 5: 100048.
+
+[3] H. Yang, <b>Q. Wang*</b>, W. Zhao, X. Tong, P. M. Atkinson. Reconstruction of global 9 km, 8-day SMAP surface soil moisture dataset during 2015-2020 by spatio-temporal fusion. Journal of Remote Sensing, 2022, 9871246.
 
 [2]	<b>王群明</b>, 张智昊, 张成媛. 融合Sentinel-2数据的高分五号高光谱数据降尺度. 遥感学报, 2022, DOI: 10.11834/jrs.20211420 (网络发表).
 
