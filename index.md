@@ -21,6 +21,7 @@
 <a name="News"></a>
 <h3><font color="black">News</font></h3>
 
+- 06/2023		 &nbsp;&nbsp;&nbsp;&nbsp;&thinsp;			A paper on 30 young forest age in China is accepted by ESSD
 - 03/2022		 &nbsp;&nbsp;&nbsp;&nbsp;&thinsp;			A paper on haze removal is published in <b>RSE</b><br/>
 <a href="https://www.sciencedirect.com/science/article/pii/S0034425722001262">https://www.sciencedirect.com/science/article/pii/S0034425722001262</a>
 - 12/2021		 &nbsp;&nbsp;&nbsp;&nbsp;&thinsp;			I join the Editorial Board of <b>RSE</b><br/>
