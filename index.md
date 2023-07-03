@@ -62,6 +62,19 @@
 - Google Scholar: <a href="https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en">https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en</a>
 - Research Gate: <a href="https://www.researchgate.net/profile/Qunming_Wang">https://www.researchgate.net/profile/Qunming_Wang</a>
 
+<h4><font color="black">2023</font></h4>
+
+
+[5]	Y. Xiao, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. 30 m map of young forest age in China. Earth System Science Data (in press).
+
+[4]	H. Yang, <b>Q. Wang*</b>. Reconstruction of a spatially seamless, daily SMAP (SSD_SMAP) surface soil moisture dataset from 2015 to 2021. Journal of Hydrology, 2023, 621: 129579.
+
+[3]	X. Ma, <b>Q. Wang*</b>, X. Tong. Incorporating inconsistent auxiliary images in haze removal of very high resolution images. International Journal of Applied Earth Observation and Geoinformation, 2023, 119: 103317.
+
+[2]	H. Yang, <b>Q. Wang*</b>, X. Ma, W. Liu, H. Liu. Digital soil mapping based on fine temporal resolution Landsat data produced by spatio-temporal fusion. IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing, 2023, 16: 3905–3914.
+
+[1]	Y. Tang, <b>Q. Wang*</b>, P. M. Atkinson. Filling then spatio-temporal fusion for all-sky MODIS land surface temperature generation. IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing, 2023, 16: 1350–1364.
+
 <h4><font color="black">2022</font></h4>
 
 
@@ -85,7 +98,7 @@
 
 [5] H. Yang, <b>Q. Wang*</b>, W. Zhao, X. Tong, P. M. Atkinson. Reconstruction of global 9 km, 8-day SMAP surface soil moisture dataset during 2015-2020 by spatio-temporal fusion. Journal of Remote Sensing, 2022, 9871246.
 
-[4] C. Zhang, <b>Q. Wang*</b>, H. Xie, Y. Ge, P. M. Atkinson. Spatio-temporal subpixel mapping with cloudy images. Science of Remote Sensing (in press).
+[4] C. Zhang, <b>Q. Wang*</b>, H. Xie, Y. Ge, P. M. Atkinson. Spatio-temporal subpixel mapping with cloudy images. Science of Remote Sensing, 2022, 6: 100068.
 
 [3]	<b>Q. Wang</b>, L. Wang, X. Zhu, X. Tong, P. M. Atkinson. Remote sensing image gap filling based on spatial-spectral random forests. Science of Remote Sensing, 2022, 5: 100048.
 
