@@ -101,7 +101,7 @@
 
 [4] C. Zhang, <b>Q. Wang*</b>, H. Xie, Y. Ge, P. M. Atkinson. Spatio-temporal subpixel mapping with cloudy images. Science of Remote Sensing, 2022, 6: 100068.
 
-[3]	<b>Q. Wang</b>, L. Wang, X. Zhu, X. Tong, P. M. Atkinson. Remote sensing image gap filling based on spatial-spectral random forests. Science of Remote Sensing, 2022, 5: 100048.
+[3]	<b>Q. Wang</b>, L. Wang, X. Zhu, Y. Ge, X. Tong, P. M. Atkinson. Remote sensing image gap filling based on spatial-spectral random forests. Science of Remote Sensing, 2022, 5: 100048.
 
 [2]	<b>王群明</b>, 张智昊, 张成媛. 融合Sentinel-2数据的高分五号高光谱数据降尺度. 遥感学报, 2022, DOI: 10.11834/jrs.20211420 (网络发表).
 
