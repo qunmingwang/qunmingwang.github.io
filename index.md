@@ -82,7 +82,7 @@
 
 [13] X. Ma, <b>Q. Wang*</b>, X. Tong. A spectral grouping-based deep learning model for haze removal of hyperspectral images. ISPRS Journal of Photogrammetry and Remote Sensing, 2022, 188: 177–189.
 
-[12] J. Zeng, <b>Q. Wang*</b>. Sparse tensor model-based spectral angle detector for hyperspectral target detection. IEEE Transactions on Geoscience and Remote Sensing (in press).
+[12] J. Zeng, <b>Q. Wang*</b>. Sparse tensor model-based spectral angle detector for hyperspectral target detection. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 5539315.
 
 [11] L. Wang, L. Wang, <b>Q. Wang*</b>, B. Lorenzo. RSCNet: Residual self-calibrated network for hyperspectral image change detection. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 5529917.
 
