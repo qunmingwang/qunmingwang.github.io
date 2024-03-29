@@ -21,6 +21,7 @@
 <a name="News"></a>
 <h3><font color="black">News</font></h3>
 
+- 03/2024		 &nbsp;&nbsp;&nbsp;&nbsp;&thinsp;			A paper on Landsat LST gap filling is accepted by <b>RSE</b><br/>
 - 06/2023		 &nbsp;&nbsp;&nbsp;&nbsp;&thinsp;			A paper on 30 m young forest age in China is accepted by <b>ESSD</b><br/>
 - 03/2022		 &nbsp;&nbsp;&nbsp;&nbsp;&thinsp;			A paper on haze removal is published in <b>RSE</b><br/>
 <a href="https://www.sciencedirect.com/science/article/pii/S0034425722001262">https://www.sciencedirect.com/science/article/pii/S0034425722001262</a>
@@ -57,16 +58,29 @@
 - 10/2016	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visiting Scholar, Institute of Earth Surface Dynamics, University of Lausanne, Switzerland (Invited by Prof. Gregoire Mariethoz)
 - 06/2013 – 12/2013	&nbsp;&nbsp;&nbsp;&nbsp; Visiting PhD student, Geography and Environment, University of Southampton, UK
 
-<a name="Publications"></a>
+<a name="Publications (Selected)"></a>
 <h3><font color="black">Publications</font></h3>
 
 - Google Scholar: <a href="https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en">https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en</a>
 - Research Gate: <a href="https://www.researchgate.net/profile/Qunming_Wang">https://www.researchgate.net/profile/Qunming_Wang</a>
 
+<h4><font color="black">2024</font></h4>
+
+[5]	<b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Filling gaps in cloudy Landsat LST product by spatial-temporal fusion of multi-scale data. Remote Sensing of Environment (in press).
+
+[4]	J. Li, <b>Q. Wang*</b>. CSDFormer: A cloud and shadow detection method for Landsat images based on Transformer. International Journal of Applied Earth Observations and Geoinformation (in press).
+
+[3]	H. Yang, <b>Q. Wang*</b>, W. Zhao, P. M. Atkinson. Reconstruction of historical SMAP soil moisture dataset from 1979 to 2015 using CCI time-series. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 4502619.
+
+[2]	Y. Tang, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. Generation of 100-m, hourly land surface temperature based on spatio-temporal fusion. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 5001716.
+
+[1]	<b>Q. Wang</b>, P. Ji, P. M. Atkinson. Fusion of surface soil moisture data for spatial downscaling of daily satellite precipitation data. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024, 17: 1053–1065.
+
 <h4><font color="black">2023</font></h4>
 
+[6] <b>Q. Wang</b>, Y. Tang, Y. Ge, H. Xie, X. Tong, P. M. Atkinson. A comprehensive review of spatial-temporal-spectral information reconstruction techniques. Science of Remote Sensing, 2023, 8: 100102.
 
-[5]	Y. Xiao, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. 30 m map of young forest age in China. Earth System Science Data (in press).
+[5]	Y. Xiao, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. Thirty-meter map of young forest age in China. Earth System Science Data, 2023, 15: 3365–3386.
 
 [4]	H. Yang, <b>Q. Wang*</b>. Reconstruction of a spatially seamless, daily SMAP (SSD_SMAP) surface soil moisture dataset from 2015 to 2021. Journal of Hydrology, 2023, 621: 129579.
 
