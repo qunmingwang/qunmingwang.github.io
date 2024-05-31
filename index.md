@@ -66,9 +66,11 @@
 
 <h4><font color="black">2024</font></h4>
 
-[5]	<b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Filling gaps in cloudy Landsat LST product by spatial-temporal fusion of multi-scale data. Remote Sensing of Environment (in press).
+[6]	<b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Filling gaps in cloudy Landsat LST product by spatial-temporal fusion of multi-scale data. Remote Sensing of Environment, 2024, 306: 114142.
 
-[4]	J. Li, <b>Q. Wang*</b>. CSDFormer: A cloud and shadow detection method for Landsat images based on Transformer. International Journal of Applied Earth Observations and Geoinformation (in press).
+[5] <b>Q. Wang</b>, J. Li, X. Tong, P. M. Atkinson. TSI-Siamnet: A Siamese network for cloud and shadow detection based on time-series cloudy images. ISPRS Journal of Photogrammetry and Remote Sensing (in press).
+
+[4]	J. Li, <b>Q. Wang*</b>. CSDFormer: A cloud and shadow detection method for Landsat images based on Transformer. International Journal of Applied Earth Observations and Geoinformation, 2024, 129: 103799.
 
 [3]	H. Yang, <b>Q. Wang*</b>, W. Zhao, P. M. Atkinson. Reconstruction of historical SMAP soil moisture dataset from 1979 to 2015 using CCI time-series. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 4502619.
 
