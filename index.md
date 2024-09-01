@@ -66,9 +66,13 @@
 
 <h4><font color="black">2024</font></h4>
 
-[7]	<b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Filling gaps in cloudy Landsat LST product by spatial-temporal fusion of multi-scale data. Remote Sensing of Environment, 2024, 306: 114142.
+[9]	<b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Filling gaps in cloudy Landsat LST product by spatial-temporal fusion of multi-scale data. Remote Sensing of Environment, 2024, 306: 114142.
 
-[6] <b>Q. Wang</b>, J. Li, X. Tong, P. M. Atkinson. TSI-Siamnet: A Siamese network for cloud and shadow detection based on time-series cloudy images. ISPRS Journal of Photogrammetry and Remote Sensing (in press).
+[8] <b>Q. Wang</b>, J. Li, X. Tong, P. M. Atkinson. TSI-Siamnet: A Siamese network for cloud and shadow detection based on time-series cloudy images. ISPRS Journal of Photogrammetry and Remote Sensing, 2024, 213: 107–123.
+
+[7] <b>Q. Wang</b>, R. Huang. RES-STF: Spatio temporal fusion of visible infrared imaging radiometer suite and Landsat land surface temperature based on Restormer. Journal of Remote Sensing, 2024, 4: 0208.
+
+[6]	Y. Xiao, <b>Q. Wang*</b>, H. K. Zhang. Global natural and planted forests mapping at fine spatial resolution of 30 m. Journal of Remote Sensing, 2024, 4: 0204.
 
 [5]	J. Li, <b>Q. Wang*</b>. CSDFormer: A cloud and shadow detection method for Landsat images based on Transformer. International Journal of Applied Earth Observations and Geoinformation, 2024, 129: 103799.
 
