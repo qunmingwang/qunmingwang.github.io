@@ -268,10 +268,10 @@ SSRBF (<a href="https://github.com/qunmingwang/SSRBF">Code</a>)
 <a name="Datasets"></a>
 <h3><font color="black">Datasets</font></h3>
 
-- <b>Thirty-meter map of young forest age in China</b> &nbsp;<a href="https://doi.org/10.6084/m9.figshare.21627023.v7">https://doi.org/10.6084/m9.figshare.21627023.v7</a><br/>
+- <b>Thirty-meter map of young forest age in China</b> &nbsp;<a href="https://doi.org/10.6084/m9.figshare.21627023.v7">(https://doi.org/10.6084/m9.figshare.21627023.v7)</a><br/>
 Yuelong Xiao, Qunming Wang, Xiaohua Tong, et al., Thirty-meter map of young forest age in China, Earth System Science Data, 2023, 15(8), 3365-3386.
 
-- <b>Thirty-meter map of global natural and planted forests</b> &nbsp;<a href="https://doi.org/10.5281/zenodo.10701417">https://doi.org/10.5281/zenodo.10701417</a><br/>
+- <b>Thirty-meter map of global natural and planted forests</b> &nbsp;<a href="https://doi.org/10.5281/zenodo.10701417">(https://doi.org/10.5281/zenodo.10701417)</a><br/>
 Yuelong Xiao, Qunming Wang, and Hankui K. Zhang, Global Natural and Planted Forests Mapping at Fine Spatial Resolution of 30 m, Journal of Remote Sensing, 2024, 4: 0204. 
 
 <a name="Professional"></a>
