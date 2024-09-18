@@ -16,7 +16,7 @@
 </table>
 
 
-[ <a href="#News">News</a> / <a href="#Research">Research Interests</a> / <a href="#Education">Education</a> / <a href="#Experience">Professional Experience</a> / <a href="#Publications">Publications</a> / <a href="#Codes">Codes</a> / <a href="#Professional">Professional Service</a> / <a href="#Awards">Awards & Honors</a> ]
+[ <a href="#News">News</a> / <a href="#Research">Research Interests</a> / <a href="#Education">Education</a> / <a href="#Experience">Professional Experience</a> / <a href="#Publications">Publications</a> / <a href="#Codes">Codes</a> /  <a href="#Datasets">Datasets</a> / <a href="#Professional">Professional Service</a> / <a href="#Awards">Awards & Honors</a> ]
 
 <a name="News"></a>
 <h3><font color="black">News</font></h3>
@@ -263,7 +263,18 @@ VIPSTF-SW (<a href="https://github.com/qunmingwang/VIPSTF-SW">Code</a>)
 ILGIF (<a href="https://github.com/qunmingwang/ILGIF">Code</a>) 
 
 - <b>Spatial-spectral radial basis function-based interpolation for Landsat ETM+ SLC-Off image gap filling</b> <br/>
-SSRBF (<a href="https://github.com/qunmingwang/SSRBF">Code</a>) 
+SSRBF (<a href="https://github.com/qunmingwang/SSRBF">Code</a>)
+
+<a name="Datasets"></a>
+<h3><font color="black">Datasets</font></h3>
+
+- <b>Thirty-meter map of young forest age in China</b> <br/>
+(<a href="https://doi.org/10.6084/m9.figshare.21627023.v7">[(https://doi.org/10.6084/m9.figshare.21627023.v7)]</a>)
+Yuelong Xiao, Qunming Wang, Xiaohua Tong, et al., Thirty-meter map of young forest age in China, Earth System Science Data, 2023, 15(8), 3365-3386.
+
+- <b>Thirty-meter map of global natural and planted forests</b> <br/>
+(<a href="https://doi.org/10.5281/zenodo.10701417">[(https://doi.org/10.5281/zenodo.10701417)]</a>)
+Yuelong Xiao, Qunming Wang, and Hankui K. Zhang, Global Natural and Planted Forests Mapping at Fine Spatial Resolution of 30 m, Journal of Remote Sensing, 2024, 4: 0204. 
 
 <a name="Professional"></a>
 <h3><font color="black">Professional Service</font></h3>
