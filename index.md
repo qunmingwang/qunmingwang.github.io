@@ -274,6 +274,18 @@ SSRBF (<a href="https://github.com/qunmingwang/SSRBF">Code</a>)
 - <b>Thirty-meter map of global natural and planted forests</b> &nbsp;(<a href="https://doi.org/10.5281/zenodo.10701417">https://doi.org/10.5281/zenodo.10701417</a>)
 <br/>Y. Xiao, Q. Wang, H. K. Zhang. Global natural and planted forests mapping at fine spatial resolution of 30 m. Journal of Remote Sensing, 2024, 4: 0204.
 
+- <b>中分辨率土壤湿度数据集</b> &nbsp;(<a href="https://doi.org/10.6084/m9.figshare.14634276">https://doi.org/10.6084/m9.figshare.14634276</a>)
+<br/>H. Yang, Q. Wang, W. Zhao, X. Tong, P. M. Atkinson. Reconstruction of global 9 km, 8-day SMAP surface soil moisture dataset during 2015-2020 by spatio-temporal fusion. Journal of Remote Sensing, 2022, 9871246.
+
+- <b>历史土壤湿度数据集(Hist_SMAP)</b> &nbsp;(<a href="https://doi.org/10.6084/m9.figshare.17621765">https://doi.org/10.6084/m9.figshare.17621765</a>)
+<br/>H. Yang, Q. Wang, W. Zhao, P. M. Atkinson. Reconstruction of historical SMAP soil moisture dataset from 1979 to 2015 using CCI time-series. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 4502619.
+
+- <b>空间无缝的逐日土壤湿度数据集(SSD_SMAP)</b> &nbsp;(<a href="https://doi.org/10.6084/m9.figshare.20279514">https://doi.org/10.6084/m9.figshare.20279514</a>)
+<br/>H. Yang, Q. Wang. Reconstruction of a spatially seamless, daily SMAP (SSD_SMAP) surface soil moisture dataset from 2015 to 2021. Journal of Hydrology, 2023, 621: 129579.
+
+- <b>高精度降尺度土壤湿度数据集</b> &nbsp;(<a href="https://doi.org/10.6084/m9.figshare.17735198">https://doi.org/10.6084/m9.figshare.17735198</a>)
+<br/>H. Yang, Q. Wang, W. Liu. A stepwise method for downscaling SMAP soil moisture dataset in the CONUS during 2015-2019. International Journal of Applied Earth Observations and Geoinformation, 2024, 130: 103912
+
 <a name="Professional"></a>
 <h3><font color="black">Professional Service</font></h3>
 <h4><font color="black">Editorship</font></h4>
