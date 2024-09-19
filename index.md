@@ -284,7 +284,7 @@ SSRBF (<a href="https://github.com/qunmingwang/SSRBF">Code</a>)
 <br/>H. Yang, Q. Wang. Reconstruction of a spatially seamless, daily SMAP (SSD_SMAP) surface soil moisture dataset from 2015 to 2021. Journal of Hydrology, 2023, 621: 129579.
 
 - <b>高精度降尺度土壤湿度数据集</b> &nbsp;(<a href="https://doi.org/10.6084/m9.figshare.17735198">https://doi.org/10.6084/m9.figshare.17735198</a>)
-<br/>H. Yang, Q. Wang, W. Liu. A stepwise method for downscaling SMAP soil moisture dataset in the CONUS during 2015-2019. International Journal of Applied Earth Observations and Geoinformation, 2024, 130: 103912
+<br/>H. Yang, Q. Wang, W. Liu. A stepwise method for downscaling SMAP soil moisture dataset in the CONUS during 2015-2019. International Journal of Applied Earth Observations and Geoinformation, 2024, 130: 103912.
 
 <a name="Professional"></a>
 <h3><font color="black">Professional Service</font></h3>
