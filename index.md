@@ -280,7 +280,7 @@ SSRBF (<a href="https://github.com/qunmingwang/SSRBF">Code</a>)
 - <b>Hist_SMAP</b> &nbsp;(<a href="https://doi.org/10.6084/m9.figshare.17621765">https://doi.org/10.6084/m9.figshare.17621765</a>)
 <br/>H. Yang, Q. Wang, W. Zhao, P. M. Atkinson. Reconstruction of historical SMAP soil moisture dataset from 1979 to 2015 using CCI time-series. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 4502619.
 
-- <b>spatially seamless daily SMAP (SSD_SMAP)</b> &nbsp;(<a href="https://doi.org/10.6084/m9.figshare.20279514">https://doi.org/10.6084/m9.figshare.20279514</a>)
+- <b>Spatially seamless daily SMAP (SSD_SMAP)</b> &nbsp;(<a href="https://doi.org/10.6084/m9.figshare.20279514">https://doi.org/10.6084/m9.figshare.20279514</a>)
 <br/>H. Yang, Q. Wang. Reconstruction of a spatially seamless, daily SMAP (SSD_SMAP) surface soil moisture dataset from 2015 to 2021. Journal of Hydrology, 2023, 621: 129579.
 
 <a name="Professional"></a>
