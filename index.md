@@ -66,9 +66,11 @@
 
 <h4><font color="black">2024</font></h4>
 
-[9]	<b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Filling gaps in cloudy Landsat LST product by spatial-temporal fusion of multi-scale data. Remote Sensing of Environment, 2024, 306: 114142.
+[10]	<b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Filling gaps in cloudy Landsat LST product by spatial-temporal fusion of multi-scale data. Remote Sensing of Environment, 2024, 306: 114142.
 
-[8] <b>Q. Wang</b>, J. Li, X. Tong, P. M. Atkinson. TSI-Siamnet: A Siamese network for cloud and shadow detection based on time-series cloudy images. ISPRS Journal of Photogrammetry and Remote Sensing, 2024, 213: 107–123.
+[9] <b>Q. Wang</b>, J. Li, X. Tong, P. M. Atkinson. TSI-Siamnet: A Siamese network for cloud and shadow detection based on time-series cloudy images. ISPRS Journal of Photogrammetry and Remote Sensing, 2024, 213: 107–123.
+
+[8]  C. Zhang, <b>Q. Wang*</b>, P. M. Atkinson. Hard-constrained Hopfield neural network for subpixel mapping. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 5641212.
 
 [7] <b>Q. Wang</b>, R. Huang. RES-STF: Spatio temporal fusion of visible infrared imaging radiometer suite and Landsat land surface temperature based on Restormer. Journal of Remote Sensing, 2024, 4: 0208.
 
