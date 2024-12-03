@@ -64,6 +64,13 @@
 - Google Scholar: <a href="https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en">https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en</a>
 - Research Gate: <a href="https://www.researchgate.net/profile/Qunming_Wang">https://www.researchgate.net/profile/Qunming_Wang</a>
 
+<h4><font color="black">2025</font></h4>
+
+[2]	 C. Zhang, <b>Q. Wang*</b>, P. M. Atkinson. Unsupervised object-based spectral unmixing for subpixel mapping. Remote Sensing of Environment, 2025, 318: 114514.
+
+[1]	 <b>Q. Wang</b>, W. Ma, S. Liu, X. Tong, P. M. Atkinson. Data fidelity-oriented spatial-spectral fusion of CRISM and CTX images. ISPRS Journal of Photogrammetry and Remote Sensing (in press).
+
+
 <h4><font color="black">2024</font></h4>
 
 [10]	<b>Q. Wang</b>, Y. Tang, X. Tong, P. M. Atkinson. Filling gaps in cloudy Landsat LST product by spatial-temporal fusion of multi-scale data. Remote Sensing of Environment, 2024, 306: 114142.
