@@ -66,9 +66,11 @@
 
 <h4><font color="black">2025</font></h4>
 
-[2]	 C. Zhang, <b>Q. Wang*</b>, P. M. Atkinson. Unsupervised object-based spectral unmixing for subpixel mapping. Remote Sensing of Environment, 2025, 318: 114514.
+[3]	 C. Zhang, <b>Q. Wang*</b>, P. M. Atkinson. Unsupervised object-based spectral unmixing for subpixel mapping. Remote Sensing of Environment, 2025, 318: 114514.
 
-[1]	 <b>Q. Wang</b>, W. Ma, S. Liu, X. Tong, P. M. Atkinson. Data fidelity-oriented spatial-spectral fusion of CRISM and CTX images. ISPRS Journal of Photogrammetry and Remote Sensing (in press).
+[2]	 <b>Q. Wang</b>, W. Ma, S. Liu, X. Tong, P. M. Atkinson. Data fidelity-oriented spatial-spectral fusion of CRISM and CTX images. ISPRS Journal of Photogrammetry and Remote Sensing (in press).
+
+[1]	 P. Ji, <b>Q. Wang*</b>. Evaluation of the effectiveness of downscaled precipitation data in drought monitoring. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (in press).
 
 
 <h4><font color="black">2024</font></h4>
