@@ -74,7 +74,7 @@
 
 [3] X. Ding, <b>Q. Wang*</b>, H. Yang, P. M. Atkinson. Reconstruction of 500-m, 8-day historical MODIS fractional vegetation cover (FVC) dataset (1982-2000) in China. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 4409619.
 
-[2] L. Wang, Q. Wang*, X. Tong, P. M. Atkinson. MST-Net: A general deep learning model for thick cloud removal from optical images. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 5612518.
+[2] L. Wang, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. MST-Net: A general deep learning model for thick cloud removal from optical images. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 5612518.
 
 [1]	 P. Ji, <b>Q. Wang*</b>. Evaluation of the effectiveness of downscaled precipitation data in drought monitoring. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18: 1039–1053.
 
