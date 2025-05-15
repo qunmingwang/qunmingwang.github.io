@@ -21,6 +21,7 @@
 <a name="News"></a>
 <h3><font color="black">News</font></h3>
 
+- 03/2025		 &nbsp;&nbsp;&nbsp;&nbsp;&thinsp;			A paper on subpixel mapping is published in <b>RSE</b><br/>
 - 03/2024		 &nbsp;&nbsp;&nbsp;&nbsp;&thinsp;			A paper on Landsat LST gap filling is accepted by <b>RSE</b><br/>
 - 06/2023		 &nbsp;&nbsp;&nbsp;&nbsp;&thinsp;			A paper on 30 m young forest age in China is accepted by <b>ESSD</b><br/>
 - 03/2022		 &nbsp;&nbsp;&nbsp;&nbsp;&thinsp;			A paper on haze removal is published in <b>RSE</b><br/>
@@ -66,11 +67,15 @@
 
 <h4><font color="black">2025</font></h4>
 
-[3]	 C. Zhang, <b>Q. Wang*</b>, P. M. Atkinson. Unsupervised object-based spectral unmixing for subpixel mapping. Remote Sensing of Environment, 2025, 318: 114514.
+[5]	 C. Zhang, <b>Q. Wang*</b>, P. M. Atkinson. Unsupervised object-based spectral unmixing for subpixel mapping. Remote Sensing of Environment, 2025, 318: 114514.
 
-[2]	 <b>Q. Wang</b>, W. Ma, S. Liu, X. Tong, P. M. Atkinson. Data fidelity-oriented spatial-spectral fusion of CRISM and CTX images. ISPRS Journal of Photogrammetry and Remote Sensing (in press).
+[4] <b>Q. Wang</b>, W. Ma, S. Liu, X. Tong, P. M. Atkinson. Data fidelity-oriented spatial-spectral fusion of CRISM and CTX images. ISPRS Journal of Photogrammetry and Remote Sensing, 2025, 220: 172–191.
 
-[1]	 P. Ji, <b>Q. Wang*</b>. Evaluation of the effectiveness of downscaled precipitation data in drought monitoring. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (in press).
+[3] X. Ding, <b>Q. Wang*</b>, H. Yang, P. M. Atkinson. Reconstruction of 500-m, 8-day historical MODIS fractional vegetation cover (FVC) dataset (1982-2000) in China. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 4409619.
+
+[2] L. Wang, Q. Wang*, X. Tong, P. M. Atkinson. MST-Net: A general deep learning model for thick cloud removal from optical images. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 5612518.
+
+[1]	 P. Ji, <b>Q. Wang*</b>. Evaluation of the effectiveness of downscaled precipitation data in drought monitoring. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18: 1039–1053.
 
 
 <h4><font color="black">2024</font></h4>
