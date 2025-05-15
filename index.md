@@ -22,6 +22,7 @@
 <h3><font color="black">News</font></h3>
 
 - 03/2025		 &nbsp;&nbsp;&nbsp;&nbsp;&thinsp;			A paper on subpixel mapping is published in <b>RSE</b><br/>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0034425724005406">https://www.sciencedirect.com/science/article/abs/pii/S0034425724005406</a>
 - 03/2024		 &nbsp;&nbsp;&nbsp;&nbsp;&thinsp;			A paper on Landsat LST gap filling is accepted by <b>RSE</b><br/>
 - 06/2023		 &nbsp;&nbsp;&nbsp;&nbsp;&thinsp;			A paper on 30 m young forest age in China is accepted by <b>ESSD</b><br/>
 - 03/2022		 &nbsp;&nbsp;&nbsp;&nbsp;&thinsp;			A paper on haze removal is published in <b>RSE</b><br/>
