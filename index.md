@@ -68,9 +68,17 @@
 
 <h4><font color="black">2025</font></h4>
 
-[5]	 C. Zhang, <b>Q. Wang*</b>, P. M. Atkinson. Unsupervised object-based spectral unmixing for subpixel mapping. Remote Sensing of Environment, 2025, 318: 114514.
+[9]	<b>Q. Wang</b>, Y. You, H. Yang, R. Xu, H. K. Zhang, P. Lu, X. Tong. A TCN-Transformer parallel model for reconstruction of a global, daily, spatially seamless FY-3B soil moisture dataset. Remote Sensing of Environment, 2025, 328: 114841.
 
-[4] <b>Q. Wang</b>, W. Ma, S. Liu, X. Tong, P. M. Atkinson. Data fidelity-oriented spatial-spectral fusion of CRISM and CTX images. ISPRS Journal of Photogrammetry and Remote Sensing, 2025, 220: 172–191.
+[8]	C. Zhang, <b>Q. Wang*</b>, P. M. Atkinson. Unsupervised object-based spectral unmixing for subpixel mapping. Remote Sensing of Environment, 2025, 318: 114514.
+
+[7] X. Ma, <b>Q. Wang*</b>, X. Tong. Nighttime light remote sensing image haze removal based on a deep learning model. Remote Sensing of Environment, 2025, 318: 114575.
+
+[6] <b>Q. Wang</b>, W. Ma, S. Liu, X. Tong, P. M. Atkinson. Data fidelity-oriented spatial-spectral fusion of CRISM and CTX images. ISPRS Journal of Photogrammetry and Remote Sensing, 2025, 220: 172–191.
+
+[5] L. Wang, <b>Q. Wang*</b>, P. M. Atkinson. Thick cloud removal of Landsat time-series using convolutional LSTM with embedded residual modules. IEEE Transactions on Geoscience and Remote Sensing (in press).
+
+[4] Y. Xiao, <b>Q. Wang*</b>, H. Xi, X. Tong. A 30 m canopy height map in China created by fusion of multiple relative height metrics. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 4411116.
 
 [3] X. Ding, <b>Q. Wang*</b>, H. Yang, P. M. Atkinson. Reconstruction of 500-m, 8-day historical MODIS fractional vegetation cover (FVC) dataset (1982-2000) in China. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 4409619.
 
