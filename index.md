@@ -68,6 +68,10 @@
 
 <h4><font color="black">2025</font></h4>
 
+[11] H. Yang, <b>Q. Wang*<b>, J. Yang, E. S. Krueger, H. Xi, W. Liu, X. Ding, Y. Zhou, T. E. Ochsner. Generating a downscaled hourly surface soil moisture dataset for wildfire prediction. Journal of Hydrology (in press).
+
+[10] J. Li, <b>Q. Wang*<b>, P. M. Atkinson. Filling gaps in global daily TROPOMI solar-induced chlorophyll fluorescence data from 2018 to 2021. IEEE Transactions on Geoscience and Remote Sensing (in press).
+
 [9]	<b>Q. Wang</b>, Y. You, H. Yang, R. Xu, H. K. Zhang, P. Lu, X. Tong. A TCN-Transformer parallel model for reconstruction of a global, daily, spatially seamless FY-3B soil moisture dataset. Remote Sensing of Environment, 2025, 328: 114841.
 
 [8]	C. Zhang, <b>Q. Wang*</b>, P. M. Atkinson. Unsupervised object-based spectral unmixing for subpixel mapping. Remote Sensing of Environment, 2025, 318: 114514.
