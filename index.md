@@ -297,20 +297,29 @@ SSRBF (<a href="https://github.com/qunmingwang/SSRBF">Code</a>)
 <a name="Datasets"></a>
 <h3><font color="black">Datasets</font></h3>
 
+- <b>A set of seamless 0.05-degree, daily SIF product data (FGSIF)</b> &nbsp;(<a href="https://doi.org/10.5281/zenodo.11918785">https://doi.org/10.5281/zenodo.11918785</a>)
+<br/>J. Li, Q. Wang*, P. M. Atkinson. Filling gaps in global daily TROPOMI solar-induced chlorophyll fluorescence data from 2018 to 2021. IEEE Transactions on Geoscience and Remote Sensing (in press).
+
+- <b>30 m canopy height map across China in 2020</b> &nbsp;(<a href="https://doi.org/10.5281/zenodo.11560195">https://doi.org/10.5281/zenodo.11560195</a>)
+<br/>Y. Xiao, Q. Wang*, H. Xi, X. Tong. A 30 m canopy height map in China created by fusion of multiple relative height metrics. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 4411116.
+
+- <b>500 m, 8-day historical MODIS FVC dataset from 1982–2000 in China</b> &nbsp;(<a href="https://doi.org/10.6084/m9.figshare.24616446.v1">https://doi.org/10.6084/m9.figshare.24616446.v1</a>)
+<br/>X. Ding, Q. Wang*, H. Yang, P. M. Atkinson. Reconstruction of 500-m, 8-day historical MODIS fractional vegetation cover (FVC) dataset (1982-2000) in China. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 4409619.
+
 - <b>Thirty-meter map of young forest age in China</b> &nbsp;(<a href="https://doi.org/10.6084/m9.figshare.21627023.v7">https://doi.org/10.6084/m9.figshare.21627023.v7</a>)
-<br/>Y. Xiao, Q. Wang, X. Tong, P. M. Atkinson. Thirty-meter map of young forest age in China. Earth System Science Data, 2023, 15: 3365–3386.
+<br/>Y. Xiao, Q. Wang*, X. Tong, P. M. Atkinson. Thirty-meter map of young forest age in China. Earth System Science Data, 2023, 15: 3365–3386.
 
 - <b>Thirty-meter map of global natural and planted forests</b> &nbsp;(<a href="https://doi.org/10.5281/zenodo.10701417">https://doi.org/10.5281/zenodo.10701417</a>)
-<br/>Y. Xiao, Q. Wang, H. K. Zhang. Global natural and planted forests mapping at fine spatial resolution of 30 m. Journal of Remote Sensing, 2024, 4: 0204.
+<br/>Y. Xiao, Q. Wang*, H. K. Zhang. Global natural and planted forests mapping at fine spatial resolution of 30 m. Journal of Remote Sensing, 2024, 4: 0204.
 
 - <b>VIPSTF-9</b> &nbsp;(<a href="https://doi.org/10.6084/m9.figshare.14634276">https://doi.org/10.6084/m9.figshare.14634276</a>)
-<br/>H. Yang, Q. Wang, W. Zhao, X. Tong, P. M. Atkinson. Reconstruction of global 9 km, 8-day SMAP surface soil moisture dataset during 2015-2020 by spatio-temporal fusion. Journal of Remote Sensing, 2022, 9871246.
+<br/>H. Yang, Q. Wang*, W. Zhao, X. Tong, P. M. Atkinson. Reconstruction of global 9 km, 8-day SMAP surface soil moisture dataset during 2015-2020 by spatio-temporal fusion. Journal of Remote Sensing, 2022, 9871246.
 
 - <b>Hist_SMAP</b> &nbsp;(<a href="https://doi.org/10.6084/m9.figshare.17621765">https://doi.org/10.6084/m9.figshare.17621765</a>)
-<br/>H. Yang, Q. Wang, W. Zhao, P. M. Atkinson. Reconstruction of historical SMAP soil moisture dataset from 1979 to 2015 using CCI time-series. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 4502619.
+<br/>H. Yang, Q. Wang*, W. Zhao, P. M. Atkinson. Reconstruction of historical SMAP soil moisture dataset from 1979 to 2015 using CCI time-series. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 4502619.
 
 - <b>Spatially seamless daily SMAP (SSD_SMAP)</b> &nbsp;(<a href="https://doi.org/10.6084/m9.figshare.20279514">https://doi.org/10.6084/m9.figshare.20279514</a>)
-<br/>H. Yang, Q. Wang. Reconstruction of a spatially seamless, daily SMAP (SSD_SMAP) surface soil moisture dataset from 2015 to 2021. Journal of Hydrology, 2023, 621: 129579.
+<br/>H. Yang, Q. Wang*. Reconstruction of a spatially seamless, daily SMAP (SSD_SMAP) surface soil moisture dataset from 2015 to 2021. Journal of Hydrology, 2023, 621: 129579.
 
 <a name="Professional"></a>
 <h3><font color="black">Professional Service</font></h3>
