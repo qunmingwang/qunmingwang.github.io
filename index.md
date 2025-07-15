@@ -303,6 +303,9 @@ SSRBF (<a href="https://github.com/qunmingwang/SSRBF">Code</a>)
 - <b>30 m canopy height map across China in 2020</b> &nbsp;(<a href="https://doi.org/10.5281/zenodo.11560195">https://doi.org/10.5281/zenodo.11560195</a>)
 <br/>Y. Xiao, Q. Wang*, H. Xi, X. Tong. A 30 m canopy height map in China created by fusion of multiple relative height metrics. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 4411116.
 
+- <b> Spatially seamless, daily FY-3B (SSD_FY3B) surface soil moisture dataset from 2012 to 2018</b> &nbsp;(<a href=" https://doi.org/10.6084/m9.figshare.27957429.v4">https://doi.org/10.6084/m9.figshare.27957429.v4</a>)
+<br/>Q. Wang, Y. You, H. Yang, R. Xu, H. K. Zhang, P. Lu, X. Tong. A TCN-Transformer parallel model for reconstruction of a global, daily, spatially seamless FY-3B soil moisture dataset. Remote Sensing of Environment, 2025, 328: 114841.
+
 - <b>500 m, 8-day historical MODIS FVC dataset from 1982–2000 in China</b> &nbsp;(<a href="https://doi.org/10.6084/m9.figshare.24616446.v1">https://doi.org/10.6084/m9.figshare.24616446.v1</a>)
 <br/>X. Ding, Q. Wang*, H. Yang, P. M. Atkinson. Reconstruction of 500-m, 8-day historical MODIS fractional vegetation cover (FVC) dataset (1982-2000) in China. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 4409619.
 
