@@ -68,25 +68,33 @@
 
 <h4><font color="black">2025</font></h4>
 
-[11] H. Yang, <b>Q. Wang*</b>, J. Yang, E. S. Krueger, H. Xi, W. Liu, X. Ding, Y. Zhou, T. E. Ochsner. Generating a downscaled hourly surface soil moisture dataset for wildfire prediction. Journal of Hydrology (in press).
+[15] <b>Q. Wang</b>, Y. You, H. Yang, R. Xu, H. K. Zhang, P. Lu, X. Tong. A TCN-Transformer parallel model for reconstruction of a global, daily, spatially seamless FY-3B soil moisture dataset. Remote Sensing of Environment, 2025, 328: 114841.
 
-[10] J. Li, <b>Q. Wang*</b>, P. M. Atkinson. Filling gaps in global daily TROPOMI solar-induced chlorophyll fluorescence data from 2018 to 2021. IEEE Transactions on Geoscience and Remote Sensing (in press).
+[14]	C. Zhang, <b>Q. Wang*</b>, P. M. Atkinson. Unsupervised object-based spectral unmixing for subpixel mapping. Remote Sensing of Environment, 2025, 318: 114514.
 
-[9]	<b>Q. Wang</b>, Y. You, H. Yang, R. Xu, H. K. Zhang, P. Lu, X. Tong. A TCN-Transformer parallel model for reconstruction of a global, daily, spatially seamless FY-3B soil moisture dataset. Remote Sensing of Environment, 2025, 328: 114841.
+[13] X. Ma, <b>Q. Wang*</b>, X. Tong. Nighttime light remote sensing image haze removal based on a deep learning model. Remote Sensing of Environment, 2025, 318: 114575.
 
-[8]	C. Zhang, <b>Q. Wang*</b>, P. M. Atkinson. Unsupervised object-based spectral unmixing for subpixel mapping. Remote Sensing of Environment, 2025, 318: 114514.
+[12] <b>Q. Wang</b>, W. Ma, S. Liu, X. Tong, P. M. Atkinson. Data fidelity-oriented spatial-spectral fusion of CRISM and CTX images. ISPRS Journal of Photogrammetry and Remote Sensing, 2025, 220: 172–191.
 
-[7] X. Ma, <b>Q. Wang*</b>, X. Tong. Nighttime light remote sensing image haze removal based on a deep learning model. Remote Sensing of Environment, 2025, 318: 114575.
+[11] <b>Q. Wang</b>, A. Li, Y. Tang, P. M. Atkinson. M2-STF: Integration of multi-modal data for spatio-temporal fusion. IEEE Transactions on Geoscience and Remote Sensing (in press).
 
-[6] <b>Q. Wang</b>, W. Ma, S. Liu, X. Tong, P. M. Atkinson. Data fidelity-oriented spatial-spectral fusion of CRISM and CTX images. ISPRS Journal of Photogrammetry and Remote Sensing, 2025, 220: 172–191.
+[10] R. Huang, Y. Tang, <b>Q. Wang*</b>. FAD-STF: A deep learning model for spatiotemporal fusion of thermal infrared and passive microwave data. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 4509417.
 
-[5] L. Wang, <b>Q. Wang*</b>, P. M. Atkinson. Thick cloud removal of Landsat time-series using convolutional LSTM with embedded residual modules. IEEE Transactions on Geoscience and Remote Sensing (in press).
+[9] T. Xiao, <b>Q. Wang*</b>, P. M. Atkinson, X. Tong. Mitigating class imbalance and enhancing unlabeled data extraction in semi-supervised deep learning for Martian terrain segmentation. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 5641019.
 
-[4] Y. Xiao, <b>Q. Wang*</b>, H. Xi, X. Tong. A 30 m canopy height map in China created by fusion of multiple relative height metrics. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 4411116.
+[8] J. Li, <b>Q. Wang*</b>, P. M. Atkinson. Filling gaps in global daily TROPOMI solar-induced chlorophyll fluorescence data from 2018 to 2021. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 4413515.
 
-[3] X. Ding, <b>Q. Wang*</b>, H. Yang, P. M. Atkinson. Reconstruction of 500-m, 8-day historical MODIS fractional vegetation cover (FVC) dataset (1982-2000) in China. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 4409619.
+[7] L. Wang, <b>Q. Wang*</b>, P. M. Atkinson. Thick cloud removal of Landsat time-series using convolutional LSTM with embedded residual modules. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 5404816.
 
-[2] L. Wang, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. MST-Net: A general deep learning model for thick cloud removal from optical images. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 5612518.
+[6] Y. Xiao, <b>Q. Wang*</b>, H. Xi, X. Tong. A 30 m canopy height map in China created by fusion of multiple relative height metrics. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 4411116.
+
+[5] X. Ding, <b>Q. Wang*</b>, H. Yang, P. M. Atkinson. Reconstruction of 500-m, 8-day historical MODIS fractional vegetation cover (FVC) dataset (1982-2000) in China. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 4409619.
+
+[4] L. Wang, <b>Q. Wang*</b>, X. Tong, P. M. Atkinson. MST-Net: A general deep learning model for thick cloud removal from optical images. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 5612518.
+
+[3] H. Yang, <b>Q. Wang*</b>, J. Yang, E. S. Krueger, H. Xi, W. Liu, X. Ding, Y. Zhou, T. E. Ochsner. Generating a downscaled hourly surface soil moisture dataset for wildfire prediction. Journal of Hydrology, 2025, 661: 133795.
+
+[2] T. Xiao, <b>Q. Wang*</b>, X. Tong. SOUL: A weakly supervised framework for Martian rock segmentation using scribble labels. International Journal of Applied Earth Observation and Geoinformation (in press).
 
 [1]	 P. Ji, <b>Q. Wang*</b>. Evaluation of the effectiveness of downscaled precipitation data in drought monitoring. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18: 1039–1053.
 
@@ -298,7 +306,7 @@ SSRBF (<a href="https://github.com/qunmingwang/SSRBF">Code</a>)
 <h3><font color="black">Datasets</font></h3>
 
 - <b>A set of seamless 0.05-degree, daily SIF product data (FGSIF)</b> &nbsp;(<a href="https://doi.org/10.5281/zenodo.11918785">https://doi.org/10.5281/zenodo.11918785</a>)
-<br/>J. Li, Q. Wang*, P. M. Atkinson. Filling gaps in global daily TROPOMI solar-induced chlorophyll fluorescence data from 2018 to 2021. IEEE Transactions on Geoscience and Remote Sensing (in press).
+<br/>J. Li, Q. Wang*, P. M. Atkinson. Filling gaps in global daily TROPOMI solar-induced chlorophyll fluorescence data from 2018 to 2021. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 4413515.
 
 - <b>30 m canopy height map across China in 2020</b> &nbsp;(<a href="https://doi.org/10.5281/zenodo.11560195">https://doi.org/10.5281/zenodo.11560195</a>)
 <br/>Y. Xiao, Q. Wang*, H. Xi, X. Tong. A 30 m canopy height map in China created by fusion of multiple relative height metrics. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 4411116.
