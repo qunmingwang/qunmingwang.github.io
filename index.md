@@ -66,19 +66,20 @@
 
 <h4><font color="black">2026</font></h4>
 
-[7]  S. Zhang, <b>Q. Wang*</b>, Q. Yang, X. Tong, P. M. Atkinson. UTCMapper for 0.3 m urban tree canopy mapping: a case study in Shanghai. Remote Sensing of Environment (in press).
+[7] S. Zhang, <b>Q. Wang*</b>, Q. Yang, X. Tong, P. M. Atkinson. UTCMapper for 0.3 m urban tree canopy mapping: a case study in Shanghai. Remote Sensing of Environment (in press).
 
-[6]  T. Xiao, <b>Q. Wang*</b>, P. Lu, T. Huang, X. Tong, P. M. Atkinson. Crowd detection using very-fine-resolution satellite imagery. ISPRS Journal of Photogrammetry and Remote Sensing, 2026, 232: 787–809.
+[6] T. Xiao, <b>Q. Wang*</b>, P. Lu, T. Huang, X. Tong, P. M. Atkinson. Crowd detection using very-fine-resolution satellite imagery. ISPRS Journal of Photogrammetry and Remote Sensing, 2026, 232: 787–809.
 
-[5]  H. Xi, <b>Q. Wang*</b>, P. M. Atkinson. The dynamic response of vegetation water use efficiency to wildfire disturbances in the Northern Hemisphere. Agricultural and Forest Meteorology, 2026, 381: 111098.
+[5] H. Xi, <b>Q. Wang*</b>, P. M. Atkinson. The dynamic response of vegetation water use efficiency to wildfire disturbances in the Northern Hemisphere. Agricultural and Forest Meteorology, 2026, 381: 111098.
 
-[4]  Y. Tang, <b>Q. Wang*</b>, P. M. Atkinson. Spatio-temporal fusion based on cloudy time-series. IEEE Transactions on Geoscience and Remote Sensing (in press).
+[4] Y. Tang, <b>Q. Wang*</b>, P. M. Atkinson. Spatio-temporal fusion based on cloudy time-series. IEEE Transactions on Geoscience and Remote Sensing (in press).
 
-[3]  A. Li, <b>Q. Wang*</b>. A deep learning-based spatio-temporal fusion model accounting for strong phenological changes. IEEE Transactions on Geoscience and Remote Sensing, 2026, 64: 5403814.
+[3] A. Li, <b>Q. Wang*</b>. A deep learning-based spatio-temporal fusion model accounting for strong phenological changes. IEEE Transactions on Geoscience and Remote Sensing, 2026, 64: 5403814.
 
-[2]  J. Li, <b>Q. Wang*</b>, P. M. Atkinson. Generation of a global, daily, spatiotemporally seamless solar-induced chlorophyll fluorescence dataset from 2018 to 2021. International Journal of Digital Earth, 2026, 19(1): 2640801.
+[2] J. Li, <b>Q. Wang*</b>, P. M. Atkinson. Generation of a global, daily, spatiotemporally seamless solar-induced chlorophyll fluorescence dataset from 2018 to 2021. International Journal of Digital Earth, 2026, 19(1): 2640801.
 
-[1]  H. Xi, <b>Q. Wang*</b>, Y. Xiao, R. Guo, X. Tong, P. M. Atkinson. Widespread biophysical cooling effects due to post-fire greening. International Journal of Applied Earth Observation and Geoinformation, 2026, 147: 105211.
+[1] H. Xi, <b>Q. Wang*</b>, Y. Xiao, R. Guo, X. Tong, P. M. Atkinson. Widespread biophysical cooling effects due to post-fire greening. International Journal of Applied Earth Observation and Geoinformation, 2026, 147: 105211.
+
 
 
 <h4><font color="black">2025</font></h4>
