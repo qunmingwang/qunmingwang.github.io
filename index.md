@@ -63,6 +63,18 @@
 - Google Scholar: <a href="https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en">https://scholar.google.com/citations?user=y5foruMAAAAJ&hl=en</a>
 - Research Gate: <a href="https://www.researchgate.net/profile/Qunming_Wang">https://www.researchgate.net/profile/Qunming_Wang</a>
 
+
+<h4><font color="black">2026</font></h4>
+
+[7]  S. Zhang, <b>Q. Wang*</b>, Q. Yang, X. Tong, P. M. Atkinson. UTCMapper for 0.3 m urban tree canopy mapping: a case study in Shanghai. Remote Sensing of Environment (in press).
+[6]  T. Xiao, <b>Q. Wang*</b>, P. Lu, T. Huang, X. Tong, P. M. Atkinson. Crowd detection using very-fine-resolution satellite imagery. ISPRS Journal of Photogrammetry and Remote Sensing, 2026, 232: 787–809.
+[5]  H. Xi, <b>Q. Wang*</b>, P. M. Atkinson. The dynamic response of vegetation water use efficiency to wildfire disturbances in the Northern Hemisphere. Agricultural and Forest Meteorology, 2026, 381: 111098.
+[4]  Y. Tang, <b>Q. Wang*</b>, P. M. Atkinson. Spatio-temporal fusion based on cloudy time-series. IEEE Transactions on Geoscience and Remote Sensing (in press).
+[3]  A. Li, <b>Q. Wang*</b>. A deep learning-based spatio-temporal fusion model accounting for strong phenological changes. IEEE Transactions on Geoscience and Remote Sensing, 2026, 64: 5403814.
+[2]  J. Li, <b>Q. Wang*</b>, P. M. Atkinson. Generation of a global, daily, spatiotemporally seamless solar-induced chlorophyll fluorescence dataset from 2018 to 2021. International Journal of Digital Earth, 2026, 19(1): 2640801.
+[1]  H. Xi, <b>Q. Wang*</b>, Y. Xiao, R. Guo, X. Tong, P. M. Atkinson. Widespread biophysical cooling effects due to post-fire greening. International Journal of Applied Earth Observation and Geoinformation, 2026, 147: 105211.
+
+
 <h4><font color="black">2025</font></h4>
 
 [15] <b>Q. Wang</b>, Y. You, H. Yang, R. Xu, H. K. Zhang, P. Lu, X. Tong. A TCN-Transformer parallel model for reconstruction of a global, daily, spatially seamless FY-3B soil moisture dataset. Remote Sensing of Environment, 2025, 328: 114841.
@@ -73,7 +85,7 @@
 
 [12] <b>Q. Wang</b>, W. Ma, S. Liu, X. Tong, P. M. Atkinson. Data fidelity-oriented spatial-spectral fusion of CRISM and CTX images. ISPRS Journal of Photogrammetry and Remote Sensing, 2025, 220: 172–191.
 
-[11] <b>Q. Wang</b>, A. Li, Y. Tang, P. M. Atkinson. M2-STF: Integration of multi-modal data for spatio-temporal fusion. IEEE Transactions on Geoscience and Remote Sensing (in press).
+[11] <b>Q. Wang</b>, A. Li, Y. Tang, P. M. Atkinson. M2-STF: Integration of multi-modal data for spatio-temporal fusion. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 5408216.
 
 [10] R. Huang, Y. Tang, <b>Q. Wang*</b>. FAD-STF: A deep learning model for spatiotemporal fusion of thermal infrared and passive microwave data. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 4509417.
 
